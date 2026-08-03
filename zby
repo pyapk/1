@@ -235,6 +235,25 @@ tvbs,http://61.221.215.25:8800/hls/9/index.m3u8
 DAZN-体育,rtmp://f13h.mine.nu/sat/tv731
 DAZN-体育,rtmp://f13h.mine.nu/sat/tv741
 momo'tv,rtmp://f13h.mine.nu/sat/tv761
+中視,http://220.135.241.47:8301/0.ts
+中視新聞,http://220.135.241.47:8302/0.ts
+中視經典,http://220.135.241.47:8321/0.ts
+中視菁采,http://220.135.241.47:8322/0.ts
+客家电视,http://220.135.241.47:8303/0.ts
+公視,http://220.135.241.47:8305/0.ts
+PTSxs,http://220.135.241.47:8312/0.ts
+公視台語台,http://220.135.241.47:8306/0.ts
+民視,http://220.135.241.47:8308/0.ts
+民視第一台,http://220.135.241.47:8309/0.ts
+民視台灣台,http://220.135.241.47:8311/0.ts
+民視新聞台,http://220.135.241.47:8310/0.ts
+台視,http://220.135.241.47:8313/0.ts
+台視新聞,http://220.135.241.47:8314/0.ts
+台視綜合,http://220.135.241.47:8316/0.ts
+台視財經,http://220.135.241.47:8315/0.ts
+華視,http://220.135.241.47:8317/0.ts 
+華視新聞資訊,http://220.135.241.47:8319/0.ts
+華視教育體育文化,http://220.135.241.47:8318/0.ts
 
 
 
@@ -350,7 +369,8 @@ AXS TV,http://23.239.31.26:8989/axstv/index.m3u8
 VICE,https://d1ocru52bkg5e9.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-tqr9z4dqrkb9m/b07d20d9-38d3-44e4-a74d-386f99542384/3.m3u8
 
 
-🇷🇺俄国直播,#genre#
+🇷🇺俄罗斯直播,#genre#
+rutube,https://river-6-601.rtbcdn.ru/stream/genetta-324.m9.rutube.ru/X18270XsYJhluTWKBUzSYg/1786208821/9ae8e8a6dc58bdad66190475f9872ecd/1080p_stream.m3u8
 俄罗斯Astrakhan 24 (Opt-2),http://streaming.astrakhan.ru/astrakhan24/index.m3u8
 俄罗斯First Music (Opt-3),http://rtmp.one.by:1200
 俄罗斯RBC (Opt-1),http://92.50.128.180/utv/1358/index.m3u8
@@ -368,6 +388,23 @@ France 24,https://amg00106-france24-france24-samsunguk-qvpp8.amagi.tv/playlist/a
 俄罗斯GITV,http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 俄罗斯camapa,http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
 俄罗斯Russia Today,https://rt-glb.rttv.com/live/rtnews/playlist_4500Kb.m3u8
+
+🇹🇷土耳其直播,#genre#
+HT SPOR,https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/ht-spor/ht-spor_1080p.m3u8
+TRT World,https://tv-trtworld.medya.trt.com.tr/master.m3u8
+MELTEM TV,http://vhxyrsly.rocketcdn.com/meltemtv/chunklist.m3u8
+TRT Muzik,https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
+Power,https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playist.m3u8
+Power Turk,https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlists.m3u8
+Power Turk Akustik,https://listen.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
+Power Turk Slow,https://listen.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
+Power Turk Taptaze,https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
+Power Dance,https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
+Number One Turk,https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/playlist.m3u8
+Number One,https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8
+Number One Ask,https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
+Number One Damar,https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8
+Power Turk Slow,https://listen.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
 
 🇪🇬埃及直播,#genre#
 CBC Sofra,https://flu.systemnet.tv/CBCSofra/index.m3u8
@@ -422,8 +459,6 @@ Al Jazeera Arabic,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
 🇧🇩孟加拉国直播,#genre#
 DESHI TV,https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 
-🇹🇷土耳其直播,#genre#
-TRT World,https://tv-trtworld.medya.trt.com.tr/master.m3u8
 
 🇹🇭泰国直播,#genre#
 Thai PBS,http://thaipbs-live.cdn.byteark.com/live-en/playlist_720p/index.m3u8
@@ -440,178 +475,31 @@ Dijlah TV,https://ghaasiflu.online/Dijlah/tracks-v1a1/playlist.m3u8
 开心锤锤动漫,http://live.nctv.top/douyu1.php?id=9018297
 茶啊二中,http://live.nctv.top/douyu1.php?id=2925610
 
-
-🍵新闻直播,#genre#
-中視,http://220.135.241.47:8301/0.ts
-中視新聞,http://220.135.241.47:8302/0.ts
-中視經典,http://220.135.241.47:8321/0.ts
-中視菁采,http://220.135.241.47:8322/0.ts
-客家电视,http://220.135.241.47:8303/0.ts
-公視,http://220.135.241.47:8305/0.ts
-PTSxs,http://220.135.241.47:8312/0.ts
-公視台語台,http://220.135.241.47:8306/0.ts
-民視,http://220.135.241.47:8308/0.ts
-民視第一台,http://220.135.241.47:8309/0.ts
-民視台灣台,http://220.135.241.47:8311/0.ts
-民視新聞台,http://220.135.241.47:8310/0.ts
-台視,http://220.135.241.47:8313/0.ts
-台視新聞,http://220.135.241.47:8314/0.ts
-台視綜合,http://220.135.241.47:8316/0.ts
-台視財經,http://220.135.241.47:8315/0.ts
-華視,http://220.135.241.47:8317/0.ts 
-華視新聞資訊,http://220.135.241.47:8319/0.ts
-華視教育體育文化,http://220.135.241.47:8318/0.ts
-
-
 ⚽️体育直播,#genre#
-TSN 4K,https://kan.waiguotai.top/p/9328de0c-13f0-451b-aad5-5b061e44ca08
-Fox Sports 4K HDR,https://watch.yingyujieshuo.top/p/10bf977d-8b5c-4b77-abe7-bfdb45057daa
-FussBall TV,https://cdn.staticres.top/p/b1ea7ad7-d641-4c00-8b52-185c98fb9190
-🇧🇩 BTVᵇᵈᶦˣ,http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8
-🇧🇩 T Sportsᵇᵈᶦˣ,http://103.165.93.31:8095/tsports/tracks-v1a1a2/mono.m3u8
-🇧🇩 SomoyTVᵇᵈᶦˣ,http://103.165.93.31:8095/somoyTv/tracks-v1a1/mono.m3u8
-🇵🇰 PTVᵇᵈᶦˣ,http://103.165.93.31:8095/ptv/tracks-v1a1/mono.m3u8
-NOW Sports 616 4K¹,http://a1.media1.london:8080/aUhtV1JFQVNsV3cyR25DSng1a3krM3lpNlN0ckZKQTBFK21KZllhcjVja3NjTE83R0NLTjFTcHNoS2ZZUG1zeA
-NOW Sports 616 4K²,http://a1.media1.london:8080/aUhtV1JFQVNsV3cyR25DSng1a3krNzBlSVVubW9vTkkxM1M2VnJzRHIrL2NNVnl5Vm5iZ0xvTFk5NTBVZ1AyeA
-NOW Sports 616 4K³,http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/745270.ts
-NOW Sports 616 4K⁴,http://starhub.pro/live/farhat-3379/67897-913379/745270.ts
-NOW Sports 616 4K⁵,http://fastshare1.com/live/25711345/late8airline/745270.ts
-BBC FHD,http://a1.media1.london:8080/aUhtV1JFQVNsV3cyR25DSng1a3krOFh2emxBYUlmeXUrbzhZWStLRVViRzZuVlV0d2owSlM2ZzFCOHRxNERDKw
-BBC 4K (Events Only),http://vca.easy747.com:80/live/donad220/8U01MGV/1436345.m3u8
-M6 4K,http://vca.easy747.com:80/live/donad220/8U01MGV/1281446.m3u8
-RAI 4K,http://vca.easy747.com:80/live/donad220/8U01MGV/1281054.m3u8
-IRIB 4K,https://live-aburayhan1107.telewebion.ir/ek/faratar/live/2160p/index.m3u8
-IRIB FHD,https://live-aburayhan1107.telewebion.ir/ek/faratar/live/108050p/index.m3u8
-IRIB HD,https://live-aburayhan1107.telewebion.ir/ek/faratar/live/720p/index.m3u8
-TRT1 2K,http://tv-trt1.medya.trt.com.tr/master.m3u8
-FOX FHD,#KODIPROP:inputstream=inputstream.adaptive
-FOX 4K (Events only)¹,http://vca.easy747.com:80/live/donad220/8U01MGV/1436344.m3u8
-FOX 4K (Events only)²,https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/s3/2095902.m3u8
-FOX 4K (Events only)³,https://raw.githubusercontent.com/tuhin0408/OopsTv/refs/heads/main/s3/2095901.m3u8
-FS1 (Events only),http://vca.easy747.com:80/live/donad220/8U01MGV/1436346.m3u8
-FS1 FHD¹,http://a1.media1.london:8080/aUhtV1JFQVNsV3cyR25DSng1a3kremF5K0dsZGJuVE9SaHViVVFYVUdQZkxIZ3lGTllRLzZMOHYyNG81MGVPYQ
-FS1 FHD²,http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/751354.ts
-FS1 FHD³,http://starhub.pro/live/farhat-3379/67897-913379/751354.ts
-FS1 FHD⁴,https://1nyaler.streamhostingcdn.top/stream/26/index.m3u8
-FS2 FHD¹,http://a1.media1.london:8080/aUhtV1JFQVNsV3cyR25DSng1a3krN25BZnRXT2JSbzBoVmFoaVJmTkQzSm1ycWkrQURKYTd4YVp1a3g0bkZqOQ
-FS2 FHD²,http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/751355.ts
-FS2 FHD³,http://starhub.pro/live/farhat-3379/67897-913379/751355.ts
-TSN1 FHD¹,http://a1.media1.london:8080/aUhtV1JFQVNsV3cyR25DSng1a3krL2NoOTZKOUlsc3pKc1NPOS9jMDJEV0pwYWpwbG54Yjdwb2pFWWFLUlBwOA
-TSN1 FHD²,http://vca.easy747.com:80/live/donad220/8U01MGV/42917.m3u8
-TSN1 FHD³,http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/748388.ts
-TSN1 FHD⁴,http://starhub.pro/live/farhat-3379/67897-913379/748388.ts
-TSN1 FHD⁵,http://fastshare1.com/live/25711345/late8airline/748388.ts
-TSN1 HD¹,https://raw.githubusercontent.com/tuhin0408/OopsTv/refs/heads/main/spo-s5-n/902070.m3u8
-TSN1 HD²,https://instreams.pro/EU/HDWC1/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click
-TSN SPORTS HD³,https://chatgpt.hereisman.net/playlist/52458/load-playlist?|Referer=https://gooz.aapmains.net
-FUSSBALL.TV1 FHD¹,http://vca.easy747.com:80/live/donad220/8U01MGV/1438202.m3u8
-FUSSBALL.TV1 FHD²,http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/742610.ts
-FUSSBALL.TV1 FHD³,http://starhub.pro/live/farhat-3379/67897-913379/742610.ts
-FUSSBALL.TV1 FHD⁴,https://raw.githubusercontent.com/tuhin0408/OopsTv/refs/heads/main/sps1/1745176.m3u8
-FUSSBALL.TV2 FHD¹,http://vca.easy747.com:80/live/donad220/8U01MGV/1438203.m3u8
-FUSSBALL.TV2 FHD²,http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/742611.ts
-FUSSBALL.TV2 FHD³,http://starhub.pro/live/farhat-3379/67897-913379/742611.ts
-FUSSBALL.TV2 FHD⁴,https://raw.githubusercontent.com/tuhin0408/OopsTv/refs/heads/main/spo-s5-n/1745178.m3u8
-FUSSBALL.TV1 4K¹,http://vca.easy747.com:80/live/donad220/8U01MGV/1438205.m3u8
-FUSSBALL.TV1 4K²,http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/745269.ts
-FUSSBALL.TV1 4K³,http://starhub.pro/live/farhat-3379/67897-913379/745269.ts
-FUSSBALL.TV1 4K⁴,https://raw.githubusercontent.com/tuhin0408/OopsTv/refs/heads/main/spo-s5-n/1745180.m3u8
-FUSSBALL.TV2 4K¹,http://vca.easy747.com:80/live/donad220/8U01MGV/1438206.m3u8
-FUSSBALL.TV2 4K²,https://raw.githubusercontent.com/tuhin0408/OopsTv/refs/heads/main/spo-s5-n/1745181.m3u8
-LAT - TELEMUNDO HD¹,http://vca.easy747.com:80/live/donad220/8U01MGV/71428.m3u8
-LAT - TELEMUNDO HD²,http://vca.easy747.com:80/live/donad220/8U01MGV/69086.m3u8
-LAT - TELEMUNDO FHD¹,http://vca.easy747.com:80/live/donad220/8U01MGV/30680.m3u8
-LAT - TELEMUNDO FHD²,http://vca.easy747.com:80/live/donad220/8U01MGV/194519.m3u8
-UNITE8 SPORTS 1 FHD¹,http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/741567.ts
-UNITE8 SPORTS 1 FHD²,http://starhub.pro/live/farhat-3379/67897-913379/741567.ts
-UNITE8 SPORTS 2ᵇᵈᶦˣ,http://198.195.239.50:8095/unt-s/video.m3u8
-UNITE8 SPORTS 2 FHD¹,http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/745202.ts
-UNITE8 SPORTS 2 FHD²,http://starhub.pro/live/farhat-3379/67897-913379/745202.ts
-UNITE8 SPORTS 2 FHD³,http://fastshare1.com/live/25711345/late8airline/745202.ts
-SuperSports Extra HD¹,http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/745195.ts
-SuperSports Extra HD²,http://starhub.pro/live/farhat-3379/67897-913379/741566.ts
-beIN SPORTS 4K¹,http://vca.easy747.com:80/live/donad220/8U01MGV/1441958.m3u8
-beIN SPORTS 4K²,http://vca.easy747.com:80/live/donad220/8U01MGV/1441959.m3u8
-beIN SPORTS 4K³,https://raw.githubusercontent.com/tuhin0408/OopsTv/refs/heads/main/s3/2095904.m3u8
-beIN SPORTS 4K⁴,https://raw.githubusercontent.com/tuhin0408/OopsTv/refs/heads/main/s3/2097322.m3u8
-beIN SPORTS MAX 1¹,http://a1.media1.london:8080/aUhtV1JFQVNsV3cyR25DSng1a3kreUEvNjVLdDRXWFM0MjhyekczRitJTjZyMlIzYUpHOEhueVh2c1c0eGRIRw
-beIN SPORTS MAX 1²,http://vca.easy747.com:80/live/donad220/8U01MGV/914472.m3u8
-beIN SPORTS MAX 1³,http://starhub.pro/live/farhat-3379/67897-913379/744529.ts
-beIN SPORTS MAX 1⁴,http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/744529.ts
-beIN SPORTS MAX 2¹,http://a1.media1.london:8080/aUhtV1JFQVNsV3cyR25DSng1a3krd2hhTXN6RHhuVjUzbk1uakhQblEwdk84OHFCOVowSHJTY3YyNHJKQVZIeA
-beIN SPORTS MAX 2²,http://vca.easy747.com:80/live/donad220/8U01MGV/914473.m3u8
-beIN SPORTS MAX 2³,http://starhub.pro/live/farhat-3379/67897-913379/744524.ts
-beIN SPORTS MAX 2⁴,http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/744524.ts
-beIN SPORTS MAX 3¹,http://a1.media1.london:8080/aUhtV1JFQVNsV3cyR25DSng1a3krOWRYTXkyZGNjVGc0dThkUWRzSXVwS2laYkZxY2FBb1VXSzNLRUFMOEdBSw
-beIN SPORTS MAX 3²,http://vca.easy747.com:80/live/donad220/8U01MGV/914474.m3u8
-beIN SPORTS MAX 3³,http://starhub.pro/live/farhat-3379/67897-913379/744525.ts
-beIN SPORTS MAX 3⁴,http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/744525.ts
-beIN SPORTS MAX 4¹,http://a1.media1.london:8080/aUhtV1JFQVNsV3cyR25DSng1a3krMk9paHRUMU91Zjg4QmR6SlQ2Q1lNbUJIdExUWWhwYVhCQ2lHQTZXeXhrMA
-beIN SPORTS MAX 4²,http://vca.easy747.com:80/live/donad220/8U01MGV/914475.m3u8
-beIN SPORTS MAX 4³,http://starhub.pro/live/farhat-3379/67897-913379/744526.ts
-beIN SPORTS MAX 4⁴,http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/744526.ts
-beIN SPORTS MAX 5¹,http://a1.media1.london:8080/aUhtV1JFQVNsV3cyR25DSng1a3krL1pYM3lpSlJFZjk4YitpWk1mOFJ0UTRHVlphYjQwQXFzZkJiREJRNnpXZw
-beIN SPORTS MAX 5²,http://vca.easy747.com:80/live/donad220/8U01MGV/914602.m3u8
-beIN SPORTS MAX 5³,http://starhub.pro/live/farhat-3379/67897-913379/744527.ts
-beIN SPORTS MAX 5⁴,http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/744527.ts
-EN - 4K¹,http://vca.easy747.com:80/donad220/8U01MGV/364461
-EN - 4K²,http://vca.easy747.com:80/donad220/8U01MGV/364460
-EN - 4K³,http://vca.easy747.com:80/donad220/8U01MGV/364453
-EN - FHD¹,http://vca.easy747.com:80/donad220/8U01MGV/317147
-EN - FHD²,http://vca.easy747.com:80/donad220/8U01MGV/317146
-EN - FHD³,http://vca.easy747.com:80/donad220/8U01MGV/317145
-FR - 4K¹,http://vca.easy747.com:80/donad220/8U01MGV/364442
-FR - 4K²,http://vca.easy747.com:80/donad220/8U01MGV/364435
-FR - FHD¹,http://vca.easy747.com:80/donad220/8U01MGV/364440
-FR - FHD²,http://vca.easy747.com:80/donad220/8U01MGV/317138
-FR - HD¹,http://vca.easy747.com:80/donad220/8U01MGV/317140
-FR - HD²,http://vca.easy747.com:80/donad220/8U01MGV/317139
-AR - 4K¹,http://vca.easy747.com:80/donad220/8U01MGV/363820
-AR - 4K²,http://vca.easy747.com:80/donad220/8U01MGV/363785
-AR - FHD¹,http://vca.easy747.com:80/donad220/8U01MGV/363783
-AR - FHD²,http://vca.easy747.com:80/donad220/8U01MGV/317133
-AR - FHD³,http://vca.easy747.com:80/donad220/8U01MGV/317132
-AR - FHD⁴,http://vca.easy747.com:80/donad220/8U01MGV/317131
-DE - 4K¹,http://vca.easy747.com:80/donad220/8U01MGV/362620
-DE - FHD¹,http://vca.easy747.com:80/donad220/8U01MGV/273443
-SP - HD¹,http://vca.easy747.com:80/donad220/8U01MGV/363761
-SP - HD²,http://vca.easy747.com:80/donad220/8U01MGV/273436
-IT - ˢᴰ¹,http://vca.easy747.com:80/donad220/8U01MGV/362541
-IT - ˢᴰ²,http://vca.easy747.com:80/donad220/8U01MGV/273421
-PT - FHD¹,http://vca.easy747.com:80/donad220/8U01MGV/273414
-PT - HD¹,http://vca.easy747.com:80/donad220/8U01MGV/325605
-ALB - FHD¹,http://vca.easy747.com:80/donad220/8U01MGV/362498
-ALB - FHD²,http://vca.easy747.com:80/donad220/8U01MGV/273428
-TR - FHD¹,http://vca.easy747.com:80/donad220/8U01MGV/317166
-TR - FHD²,http://vca.easy747.com:80/donad220/8U01MGV/214293
-咪咕,https://t.freetv.fun/live/mi-gu-ti-yu.m3u8
-ESPN1,http://46.151.196.223:14432/
-ESPN2,http://46.151.196.223:14438/
-ESPN3,http://46.151.196.223:14444/
-ESPN4,http://46.151.196.223:14450/
+beIN Sports 1,https://corestream.siteyaptim.live//bein1/tracks-v1a1/mono.m3u8
+beIN Sports 2,https://corestream.siteyaptim.live//bein2/tracks-v1a1/mono.m3u8
+beIN Sports 3,https://corestream.siteyaptim.live//bein3/tracks-v1a1/mono.m3u8
+beIN Sports 4,https://corestream.siteyaptim.live//bein4/tracks-v1a1/mono.m3u8
+S Sport 1,https://corestream.siteyaptim.live//s-sport/tracks-v1a1/mono.m3u8
+S Sport 2,https://corestream.siteyaptim.live//s-sport2/tracks-v1a1/mono.m3u8
+TRT Spor,https://corestream.siteyaptim.live//trt-spor/tracks-v1a1/mono.m3u8
 RMTV,https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 lexter,https://lextertv300.com/memfs/82521bda-38b9-4967-b49f-3812515985ea.m3u8
- MAX SPORT 3 🇧🇬,http://77.46.130.252:99/maxsport3
  Setanta Sport 1 🇬🇪,http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
  ESPN 2 🇨🇴,http://200.10.30.241:8000/play/a01r/index.m3u8
  Africa 24 Sport 🇳🇬,https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
  TELETRAK 🇨🇱,http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
  INFOSPORT 🇫🇷,http://212.102.60.80/Infosport/index.m3u8
-HT SPOR 🇹🇷,https://ciner-live.ercdn.net/htspor/htspor_1080p.m3u8
- KCMN-LD6 🇻🇳,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8
  Qazaqstan Sport SD 🇰🇿,https://stream.qaztv.kz/live/stream9/index.m3u8
  Turkmenistan Sport 🇹🇲,http://217.174.225.146/hls/ch004_720/index.m3u8
  X SPORT 🇷🇺,http://iptv.prosto.tv:7000/ch109/video.m3u8
-FIFA+ United States,https://d2w9q46ikgrcwx.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/554c05e7-129a-4758-97ba-aa2292e58973/1.m3u8
 PAC-12 Network,https://pac12-samsungus.amagi.tv/playlist480_p.m3u8
 Red Bull TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 Automotion,https://streams2.sofast.tv/umaxx/v1/0196fcdb0ee01ea506ec1fab16cfab/0196fcdf09931ea5064918d106ecf7/Automotions_eng_2500k.m3u8
 Team USA TV,https://amg01416-amg01416c4-firetv-us-4522.playouts.now.amagi.tv/playlist360P.m3u8
 Fox Sports,https://d1jzu95oc8fgt3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zyqcok4bm0lgq/FOX_Sports.m3u8
-PFL,https://d2w9b8sam7j3zv.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5g55ahrn9ajah/2f1fe122-e239-4138-9f90-2aad7e4aaa54/0.m3u8
 STADIUM,https://2d006483e2aa43fe812f7b464cb2916d.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Stadium/playlist.m3u8
 Trace Sports,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
-World Poker Tour,https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
 Red Bull TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 FIFA+,https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
 FIFA+,https://d2w9q46ikgrcwx.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/035f3906-e664-4f1b-83f0-a7547730adce/0.m3u8
