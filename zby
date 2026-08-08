@@ -1450,14 +1450,28 @@ beIN Sports 1,https://corestream.siteyaptim.live//bein1/tracks-v1a1/mono.m3u8
 beIN Sports 2,https://corestream.siteyaptim.live//bein2/tracks-v1a1/mono.m3u8
 beIN Sports 3,https://corestream.siteyaptim.live//bein3/tracks-v1a1/mono.m3u8
 beIN Sports 4,https://corestream.siteyaptim.live//bein4/tracks-v1a1/mono.m3u8
+beIN SPORTS XTRA,https://bein-xtra-bein.amagi.tv/playlist.m3u8
+beIN SPORTS XTRA en Espanol,http://201.190.41.246:9060/play/a03y/index.m3u8
 S Sport 1,https://corestream.siteyaptim.live//s-sport/tracks-v1a1/mono.m3u8
 S Sport 2,https://corestream.siteyaptim.live//s-sport2/tracks-v1a1/mono.m3u8
 5Sport,http://stream.mcquack.net/41/index.m3u8
+BEK TV Sports West,https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
 lexter,https://lextertv300.com/memfs/82521bda-38b9-4967-b49f-3812515985ea.m3u8
  Setanta Sport 1,http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
  Turkmenistan Sport,http://217.174.225.146/hls/ch004_720/index.m3u8
+ACI Sport TV,https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
+Alkass Four,https://liveeu-gcp.alkassdigital.net/alkass4-p/main.m3u8
+Alkass SHOOF,https://liveeu-gcp.alkassdigital.net/shooflive/main.m3u8
+Alkass Six,https://liveeu-gcp.alkassdigital.net/alkass6-p/main.m3u8
+Alkass One,https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8
+Alkass Two,https://liveeu-gcp.alkassdigital.net/alkass2-p/main.m3u8
+Alkass Three,https://liveeu-gcp.alkassdigital.net/alkass3-p/main.m3u8
+Arryadia,http://149.100.11.252:8000/play/a065/index.m3u8
+Belarus-5,http://178.124.179.122:8080/BT5/index.m3u8
+CazeTV,https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 RMTV,https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 Red Bull TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+Africa 24 Sport,https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
 FIFA+,https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
 FIFA+,https://d2w9q46ikgrcwx.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/035f3906-e664-4f1b-83f0-a7547730adce/0.m3u8
 FIFA+,https://d2w9q46ikgrcwx.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/b31ebba5-b6b6-4083-9426-1c4bd66b7119/0.m3u8
