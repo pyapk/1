@@ -635,6 +635,10 @@ TVRI Bangka Belitung,https://ott-balancer.tvri.go.id/live/eds/Babel/hls/Babel-av
 🇰🇵朝鲜直播,#genre#
 Korean Central Television,https://live.koryocdn.org/kctv/index.m3u8
 
+🇲🇳蒙古国直播,#genre#
+DreamTV,https://cdn4.skygo.mn/live/disk1/Dreambox/HLSv3-FTA/Dreambox-avc1_2089200=6-mp4a_256000=5.m3u8
+MNB Sport,https://live.mnb.mn/hls/mnb_sport.stream.m3u8
+
 
 🇵🇭菲律宾直播,#genre#
 Abante TV,https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg19223-amg19223c12-amgplt0352/cb7c3e1a7b7b6f86cbcf6a6cd1f541a2d10f37855d39d16067a05c9523c51550d0bfa2c9be1fbd3c7e282ea33e40340d0136d41cc07c11df871af00e6a291c64e9f8d76b80f94a56ec8d1f5549a37b163efb1e49897e0632f4e81948aa0ef5414c53c9197e5a37bab80bd62f16da860a8e612895acd8712106223be22141f5fc07f8aaf12a108b37fea80c2ec06d06bedd1cd6d514a585c426c111df2aa40b9c97858ad71892e5c035f815eb7b5f087633c8c23dc19a0be48b9e6b6bd1727e401b18b7f295af033dd0421111aead9bbc64aa11cc8f23d93505906af7272bb38411c82a89a32b83a5b2d1433356cea67a52576b613de8815112ae6ffad88997132eda9e1009130bb98fba2919b0843a99989c40988a03cfd9480e31c1de76939cbc84e7b184704144a02095b53258476f0803c908ecca2d9320ed70a7c0167a1c6e7498da5cf48ed650352260b5c00f8c2c4ef9d78288da4e16cb635b75db20e112454ddc246079d228fbb13578c6705ad07b6cb50960c00ad79018d88b97a50a32bedb8765fa6ce4ba4392c007bb7e35560cfca37411100c50dfec6f0135369210c1829eb9373a01eaf6dff78f05685377462067e181ee5fa8fca47845299429620a1131078608d31bba21591022cc64b5a5397c8a08246f8a8a305f53609388818988d8cf4ed727852f9cf9f3e3ef05c04b666b117e49f8fa21815b129f4943/86/854x480_1478400/index.m3u8
@@ -773,6 +777,30 @@ hr-fernsehen,https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8
 HSE,https://hse24.akamaized.net/hls/live/2006663/hse24/master_1080p25.m3u8
 
 
+🇱🇰斯里兰卡直播,#genre#
+Mon Tamil TV,http://198.144.149.206:8080/MONTAMIL_CINEMA/index.m3u8?token=GTR
+HiruTV,https://tv.hiruhost.com:1936/8012/8012/playlist.m3u8
+Shakthi TV,https://mumbai-edge.smartplaytv.in/ShakthiTV/index.m3u8
+Verbum TV,https://video-eu1.streamerr.co/hls/scb80244b91/live.m3u8
+
+
+🇭🇹海地直播,#genre#
+Haiti News Channel,https://cdn.haititivi.com/website/haitinews/tracks-v1a1/mono.m3u8
+Radio Tele 4VEH,https://uni01rtmp.tulix.tv/4vehtv/4vehtv-firetv/chunklist_w801410151.m3u8
+Radio Tele Full Gospel,https://f-tx-edge-87.christianworldmedia.com/EJCFG/mp4:EJCFG/chunklist_w1209975330.m3u8
+
+🇾🇪也门直播,#genre#
+Al Masirah Mubacher,https://live2.cdnbridge.tv/AlmasirahMubasher/Mubasher_All/MubasherLive/Mubasher_720p/chunks.m3u8
+Al-Sahat TV,https://assahat.b-cdn.net/Assahat/assahatobs/index.m3u8
+
+
+🇹🇩乍得直播,#genre#
+Tele Tchad,https://strhlslb01.streamakaci.tv/str_tchad_tchad/str_tchad_multi/str_tchad_tchad/str_tchad_tchad_1080p/chunks.m3u8?nimblesessionid=14852917
+
+🇯🇲牙买加直播,#genre#
+Caribbean Gospel TV,https://25466019af9b7aed.servers.dvcloud.tv/hls/iptv_providers/fhvtgifbqbcjp0g19mdd76t18tpalu4k.m3u8
+
+
 🇿🇦南非直播,#genre#
 Wild Earth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 
@@ -785,8 +813,8 @@ Moviesphere,https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 🇳🇬尼日利亚直播,#genre#
 Pulse,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-pulse-samsungau/playlist.m3u8
 
-🇱🇰斯里兰卡直播,#genre#
-Mon Tamil TV,http://198.144.149.206:8080/MONTAMIL_CINEMA/index.m3u8?token=GTR
+🇿🇼津巴布韦直播,#genre#
+Yadah TV,https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_018/Stream/live18_2/medium/chunks.m3u8?nimblesessionid=1900459760
 
 🇲🇽墨西哥,#genre#
 Alcarria TV,http://cls.alcarria.tv/live/alcarriatv-livestream.m3u8
