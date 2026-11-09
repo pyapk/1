@@ -350,10 +350,6 @@ TVBPlus,https://cdn3.indevs.in/stream/tvb/tvbp/
 华丽翡翠台新加坡,https://cdn3.indevs.in/stream/live/jade/
 天映,https://cdn3.indevs.in/stream/live/typd/
 天映经典,https://cdn3.indevs.in/stream/live/ccm/
-Now新聞臺,http://173.208.234.146/live/nowxw.m3u8
-鳳凰中文臺,http://173.208.234.146/live/fhzw.m3u8
-鳳凰資訊臺,http://173.208.234.146/live/fhzx.m3u8
-鳳凰香港臺,http://173.208.234.146/live/fhxg.m3u8
 LIVE三立,https://d2jc41c1shgcol.cloudfront.net/live/setnewsrtmp/playlist.m3u8
 TVBS新闻,https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
 东森新闻,https://d2jc41c1shgcol.cloudfront.net/live/EBCNews/playlist.m3u8
@@ -383,7 +379,6 @@ TVB星河3,http://cdn10.123.rr.kg/163189/xinghe/
 翡翠剧集台,http://cdn6.123.rr.kg/163189/tvbd
 翡翠台,http://cdn6.123.rr.kg/163189/fct
 翡翠台(字幕),http://cdn3.123.rr.kg/stream/tvb/fct/
-翡翠台4K(字幕),http://o11.163189.xyz/stream/tvb/fct4k/
 天映频道,http://cdn3.123.rr.kg/stream/live/typd/
 天映新加坡,http://cdn10.123.rr.kg/163189/typd/
 AOD,http://cdn3.123.rr.kg/stream/live/aod/
@@ -526,7 +521,6 @@ BTN TV,https://btn.nowcdn.co.kr/btn/btnlive2m/chunklist_w292365197.m3u8
 Arirang,https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/chunklist_b2256000_sleng.m3u8
 FGTV,https://fgtvlive.fgtv.com/smil:fgtv.smil/chunklist_b1128000.m3u8
 Gugak TV,https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/chunklist_w574103366.m3u8
-HLAJ-DTV,https://wowza.jejumbc.com/live/tv_jejumbc/chunklist_w989868988.m3u8
 KBS World,https://stream8.cinerama.uz/1448/tracks-v1a1/mono.m3u8
 GCN24 Korean (720p),http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_1300k.stream/playlist.m3u8
 MBC Chuncheon (춘천 MBC) (480p) [Not 24/7],https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
@@ -543,8 +537,6 @@ EBS1,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8
 
 🇸🇬新加坡直播,#genre#
 Channel News Asia,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-Asian Food Network Vietnam,https://ec03-pop1-hlc.tv360.vn/bpk-token/saxxwzm2irowl3zckyujel33mwic663f/bpk-tv/178/output/178-audio_198800_eng_iv_1=196800-video_iv_1=1884800.m3u8
-like Gecko,https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network-avc1_3000000=12-mp4a_256000_eng=6.m3u8
 CNA (Singapore),https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 CNA International,https://mumt05.tangotv.in/87NeALx2CNA/tracks-v1a1/mono.m3u8
 CNA Originals,https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist480p.m3u8
@@ -628,7 +620,6 @@ Myanmar International TV,https://mrtvott.com/6238689c01ab711ae62865a071ff2003---
 
 
 🇱🇦老挝直播,#genre#
-Dao Lane Xang TV,https://livefta.malimarcdn.com/ftaedge00/khaomwungmai.sdp/chunklist.m3u8
 ISTV,https://livefta.malimarcdn.com/ftaedge00/ichannel.sdp/playlist.m3u8
 Lao Net TV,https://livefta.malimarcdn.com/ftaedge00/laonet.sdp/chunklist.m3u8
 LOOK THOONG TV HD,https://livefta.malimarcdn.com/ftaedge00/lookthoongtv.sdp/playlist.m3u8
@@ -638,13 +629,11 @@ Oh Muang Lao TV,https://livefta.malimarcdn.com/ftaedge00/ohmuanglao.stream/chunk
 
 
 🇮🇩印尼直播,#genre#
-Akativi,https://akativi.siar.us/live/akativi.m3u8
 Al Wafa Tarim,https://ammedia.siar.us/ammedia/live/playlist.m3u8
 Banjar TV,https://banjartv.siar.us/banjartv/live/playlist.m3u8
 Banten TV,https://5bf7b725107e5.streamlock.net/bantentv/bantentv/chunklist_w1415429024.m3u8
 BMS TV,https://5bf7b725107e5.streamlock.net/bmstv/bmstv/chunklist_w1452035610.m3u8
 BRTV,https://5bf7b725107e5.streamlock.net/brtv/brtv/playlist.m3u8
-Bungo TV,https://5bf7b725107e5.streamlock.net/bungotv/bungotv/chunklist_w658559857.m3u8
 Caruban TV,https://stream.carubantv.id/hls/0/stream.m3u8
 DAAI TV,https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
 Dens Food Channel,https://op-flashcon-digdayahd-1.dens.tv/h/h221/02.m3u8
@@ -655,15 +644,10 @@ DutaTV,https://dutatv.siar.us/dutatv/live/playlist.m3u8
 E International Europe,https://vodcdn.bamboo-cloud.com/livehls/68c62ff406304403a60cd7f3/index-f2-v1-a1.m3u8
 Efarina TV,https://live.efarinatv.com/hls/bgtaufikganteng.m3u8
 Garuda TV,https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
-Groovia Kanal,https://vodcdn.bamboo-cloud.com/livehls/69a12811e0f8978ef209ca85/index-f2-v1-a1.m3u8
-Groovia Kids,https://vodcdn.bamboo-cloud.com/livehls/69a128aeed5ab636f90580ea/index-f3-v1-a1.m3u8
 IndonesianaTV,https://tvstreamcast.com/indonesiana.m3u8
 JambiTV,https://jambitv.globaldigitalcore.com/hls/sah5tu7Eiveepohyieyie3OoteL2anga.m3u8
-JogjaTV,https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
 MadaniTV,https://stream.asianastream.com/madani/madanitv.smil/chunklist_w661035964_b785000.m3u8
 MaduTV,https://re1.siar.us/madutv/hd720/playlist.m3u8
-Metro TV,https://edge.medcom.id/live-edge/smil:metro.smil/chunklist_w991137960_b1492000_sleng.m3u8
-MGSTV,https://mgstv.siar.us/live/mgstv.m3u8
 MQTV,https://5bf7b725107e5.streamlock.net/mqtv/mqtv/chunklist_w1395649472.m3u8
 Nusantara TV,https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 Puja TV Aceh,https://pujatv.siar.us/live/pujatv.m3u8
@@ -674,11 +658,8 @@ Rinjani TV,https://rinjanitv.cloud/hls/tvkabel.m3u8
 Rodja TV,https://rodjatv.com/rodjatv/live_480p1128kbs/index.m3u8
 Salam TV,https://live.salamtelevisi.com/hls/0/stream.m3u8
 Salira TV,https://live.salira.tv/p/3870/hybrid/play.m3u8
-Sampit TV,https://sampit-tv.siar.us/live/sampit-tv.m3u8
 Sangaji TV,https://cdn.adyadigitalteknologi.com:8090/vod/relay.m3u8
-Selaparang TV,https://selaparangtv.siar.us/live/selaparangtv.m3u8
 SMTV,https://e.siar.us/live/smtv.m3u8
-Sriwijaya TV,https://sriwijayatv.siar.us/live/sriwijayatv.m3u8
 Stara TV,https://stream.staratv.id/hls/0/stream.m3u8
 Stara TV Bandung,https://bandung.staratv.id/hls/0/stream.m3u8
 Stara TV Bojonegoro,https://bojonegoro.staratv.id/hls/0/stream.m3u8
@@ -699,14 +680,12 @@ TVRI Bangka Belitung,https://ott-balancer.tvri.go.id/live/eds/Babel/hls/Babel-av
 Korean Central Television,https://live.koryocdn.org/kctv/index.m3u8
 
 🇲🇳蒙古国直播,#genre#
-DreamTV,https://cdn4.skygo.mn/live/disk1/Dreambox/HLSv3-FTA/Dreambox-avc1_2089200=6-mp4a_256000=5.m3u8
 MNB Sport,https://live.mnb.mn/hls/mnb_sport.stream.m3u8
 
 
 🇵🇭菲律宾直播,#genre#
 Abante TV,https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg19223-amg19223c12-amgplt0352/cb7c3e1a7b7b6f86cbcf6a6cd1f541a2d10f37855d39d16067a05c9523c51550d0bfa2c9be1fbd3c7e282ea33e40340d0136d41cc07c11df871af00e6a291c64e9f8d76b80f94a56ec8d1f5549a37b163efb1e49897e0632f4e81948aa0ef5414c53c9197e5a37bab80bd62f16da860a8e612895acd8712106223be22141f5fc07f8aaf12a108b37fea80c2ec06d06bedd1cd6d514a585c426c111df2aa40b9c97858ad71892e5c035f815eb7b5f087633c8c23dc19a0be48b9e6b6bd1727e401b18b7f295af033dd0421111aead9bbc64aa11cc8f23d93505906af7272bb38411c82a89a32b83a5b2d1433356cea67a52576b613de8815112ae6ffad88997132eda9e1009130bb98fba2919b0843a99989c40988a03cfd9480e31c1de76939cbc84e7b184704144a02095b53258476f0803c908ecca2d9320ed70a7c0167a1c6e7498da5cf48ed650352260b5c00f8c2c4ef9d78288da4e16cb635b75db20e112454ddc246079d228fbb13578c6705ad07b6cb50960c00ad79018d88b97a50a32bedb8765fa6ce4ba4392c007bb7e35560cfca37411100c50dfec6f0135369210c1829eb9373a01eaf6dff78f05685377462067e181ee5fa8fca47845299429620a1131078608d31bba21591022cc64b5a5397c8a08246f8a8a305f53609388818988d8cf4ed727852f9cf9f3e3ef05c04b666b117e49f8fa21815b129f4943/86/854x480_1478400/index.m3u8
 Bilyonaryo News Channel,https://amg19223-amg19223c11-amgplt0352.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg19223-amg19223c11-amgplt0352/cb7c3e1a7b7b6f86cbcf6a6cd1f541a2d10f37855d39d16067a05c9523c51550d0bfa2c9be1fbd3c7e282ea33e40340d0136d41cc07c11df871af00e6a291c64e9f8d76b80f94a56ec8d1f5549a37b163efb1e49897e0632f4e81948aa0ef5414c53c9197e5a37bab80bd62f16da860a8e612895acd8712106223be22141f5fc07f8aaf12a108b37fea80c2ec06d06bedd1cd6d514a585c426c111df2aa40b9c97858ad71892e5c035f815eb7b5f087633c8c23dc5cc5ee088983c3dd1727e401b18b7f295af033d80104511a9a993bc37ae47cadc72d26405906af7272bb38411c82a89a32b83a5b2d1433356cea67a52576b613de8815112ae6ffad88997132eda9e1009130bb98fba2919b0843a99989c40988a03cfd9480e31c1de76939cbc84e7b184704144a02095b53258476f0803c908ecca2d9320ed70a7c0167a1c6e7498da5cf48ed650352260b5c00f8c2c4ef9d78288da4e16cb635b75db20e112454ddc246079d228fbb13578c6705ad07b6cb50960c00ad79018d88b97a50a32bedb8765fa6ce4ba4392c007bb7e35560cfca37411100c50dfec6f0135369210c1829eb9373a01eaf6dff78f05685377462067e181ee5fa8fca47845299429620a1131078608d31bba21591022cc64b5a5397c8a08246f8a8a305f53609388818988d8cf4ed727872f9cc7f2e3ef05b182c0d717a3f8fd80f84322f6a27790/84/640x360_1442883/index.m3u8
-CLTV36,https://live.cltv36.tv:5443/LiveApp/streams/cltvlive.m3u8
 HopeTV,https://jstre.am/live/jsl:nX5eC7gQvZb.m3u8
 INC Radio,https://stream-243529.castr.net/6842a712b68c56f675d988f1/live_b60a96e056fc11f084c05f5d0649296b/tracks-v2a1/rewind-1800.ts.m3u8
 INCTV,https://stream-243529.castr.net/6842a712b68c56f675d988f1/live_f5ac22b0566511f0805217b960326aaa/tracks-v2a1/rewind-1800.ts.m3u8
@@ -719,22 +698,16 @@ TVK (Cambodia),https://live.kh.malimarcdn.com/live/tvk.stream/chunklist.m3u8
 ARDB TV,https://ardbtv.ardb.com.kh:8443/tv-live/tv-online.m3u8
 EBC,https://iptv.ebc.edu.kh/iptv/channel/1.m3u8
 Sangkem TV,https://live.sangkemtv.com/memfs/sangkem.m3u8
-SEA TV,https://seatv.netlinkbroadcaster.com/hls/test.m3u8
-Town TV,https://stream.pdtvhd.com/LiveApp/streams/Townfullhd.m3u8
-TV5 Cambodia,https://ip.pdtvhd.com/Khmer/streams/CTV5.m3u8
+
 
 🇳🇵尼泊尔直播,#genre#
 Kantipur TV,https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/kantipurtv/hd_1080/chunks.m3u8
-Kantipur TV SD,https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/kantipurtv/hd_720/chunks.m3u8?nimblesessionid=12120355
-Ray TV HD,https://streaming.tvnepal.com:19360/raynewsdaily/720p.m3u8
-Ray TV HDSD,https://streaming.tvnepal.com:19360/raynewsdaily/480p.m3u8
 TV Today Janakpur,https://tvtoday.rpmc.com.np/hls/bipashatech/1_2/index.m3u8
 
 
 🇧🇩孟加拉国直播,#genre#
 DESHI TV,https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 Ekushey TV,http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-Deepto TV,https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 Channel I,https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/index.m3u8?e=1784102558&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=1b6ef0107d8addd36bcab3ca1175877a
 NTV,https://tvsen5.aynaott.com/JHPxHAWonztVucyc4GzF/index.m3u8?e=1784102559&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=d26add1c49d848c9199b708427134979
 Bangla Vision,https://tvsen5.aynaott.com/banglavision/index.m3u8?e=1784102560&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=ddcd867c4b5ff4b8041ee4e513423464
@@ -755,31 +728,23 @@ Ananda TV,https://tvsen6.aynaott.com/LeUAm4F1iixYns3s3Non/index.m3u8?e=178410257
 BTV CTG,https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/index.m3u8?e=1784102576&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=901c0ca2f1ba54041a543dce43641c12
 Drama 24,https://vods2.aynaott.com/gseriesDrama/index.m3u8
 Channel S,https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/playlist.m3u8
-Green TV HD,https://tvsen6.aynaott.com/cLuA3hJR/index.m3u8?e=1784102578&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=57bcdefd396bd85d72461ff29cbde00d
 Thikana,https://5dd3981940faa.streamlock.net:443/thikanatv/thikanatv/playlist.m3u8
 
 
 🇺🇸美国直播,#genre#
-3ABN,https://3abn.bozztv.com/3abn2/3abn_live/smil:3abn_live.smil/chunklist_w1815159341_b1328000_slen.m3u8?nimblesessionid=863406817
 ABC 7 New York,http://hardcoremedia.xyz/ymgiaxkw/5Hr5ZQuVfU/142490
 FOX 5 New York,http://hardcoremedia.xyz/ymgiaxkw/5Hr5ZQuVfU/10056
-A&E,http://23.239.31.26:8989/aande/index.m3u8
 Bravo Vault,https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/61a276d1-8291-4018-aba2-146304f96043/4.m3u8
-AXS TV,http://23.239.31.26:8989/axstv/index.m3u8
 VICE,https://d1ocru52bkg5e9.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-tqr9z4dqrkb9m/b07d20d9-38d3-44e4-a74d-386f99542384/3.m3u8
 CGTN,https://english-livebkali.cgtn.com/live/encgtn_1.m3u8
 CGTN1,https://live-stream.cgtn.com/event-live/CGTN_1_1PVvR6ZBAZ2/index.m3u8
-DHE HD,http://108.181.23.41:80/livehttpplay?channel_id=23504
-
 
 
 🇷🇺俄罗斯直播,#genre#
 俄罗斯Astrakhan 24 (Opt-2),http://streaming.astrakhan.ru/astrakhan24/index.m3u8
-俄罗斯RBC (Opt-1),http://92.50.128.180/utv/1358/index.m3u8
 俄罗斯RBC (Opt-2),http://online.video.rbc.ru/online/rbctv_480p/index.m3u8
 俄罗斯RBC (Opt-3),http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
 俄罗斯Shanson TV (Opt-1),http://hls.shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8
-俄罗斯Shanson TV (Opt-2),http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
 俄罗斯TRO Soyuz,http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
 俄罗斯RT,https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
 俄罗斯金砖TV,https://chibrics.mediacdn.ru/cdn/brics/chinese/tracks-v1a1/mono.m3u8
@@ -815,14 +780,12 @@ Power Turk Slow,https://listen.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
 Africa 24 sport,https://edge11.vedge.infomaniak.com/livecast/ik:africa24sport/chunklist_w1029070158.m3u8
 Africanews,https://cdn-euronews.akamaized.net/live/eds/africanews-en/25049/africanews-en-avc1_360000=3-mp4a_143200_eng=2.m3u8
 BFM2,https://d1ib1gsg71oarf.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-scp7wda722jph/6376bd95-b2f3-49d4-93e0-c5ebc7070995/2.m3u8
-like Gecko,https://tra2-xdn-edge-live01.pfd.sfr.net/bfm-ncdn-live-pal1.pfd.sfr.net/sid=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJjYnY0LWNkbi1zcjAwIiwiaWF0IjoxNzkxODg3MzUwLCJqdGkiOiIwZWFyMm5tNnJxYXZtZzhwbzZ1MCIsInN1YiI6IkJGTV9BTFNBQ0UiLCJpcCI6IjI0MDk6OGE1ZToxNDEyOjllNDoxYTc6OGE3ZDoxZTBkOmY1ODgiLCJleHAiOjE3OTE5MzA1NTB9.VxPDwI9Ycm9BZyDwVedEHgXp70CVbMjlh0w7scMdd9U/shls/LIVE$BFM_ALSACE/index.m3u8/S!d2EQaGxzX2JmbV9tUnNYSnRtNhIGVP7...8BFgyf/Level(4500000)?start=LIVE&end=END
 Brionnais TV,https://stream2.mandarine.media/brionnaistv/brionnaistv/chunklist_w878872390.m3u8
 Caillou,https://do7nccdsswstc.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1aso0bc668saa/a5233c83-f772-4a81-959a-45ec7877ef61/5.m3u8
 Cine Nanar,https://zylo-cinenanar-rakuten.amagi.tv/playlist480p.m3u8
 Cine Western,https://amg00711-zylo-amg00711c8-rakuten-uk-2686.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg00711-zylofast-cinewestern-rakutenuk/28912167-c6f4-11f1-a738-1e5d993a1039/43/640x360_1020800/index.m3u8
 DBM TV,https://edge11.vedge.infomaniak.com/livecast/dbmtv/chunklist_w508553870.m3u8
 Emotion L,https://rakutenaa-zylo-emotional-rakuten-r1zkm.amagi.tv/ts-eu-w1-n2/playlist/rakutenAA-zylo-emotional-rakuten/cb543d1f7a6c678784c83d67cef345a1f9b153fc087a8d6933fb4b926bc10f41dcdca99cb31ee4782fff7ace386a350e0332db66bd6c00cfb17fb80d6d274264e7c9e16ba6fa0261abc87e6a6aef2f7904ac754c943a55228ca74b46d468f5312e3bdc24421a7281b402f8662590d351d46639edf89f22602204409e5543e0b023fcadb80110c76da4c41d4c9d3f26b6d4138b8d03bd80d0459f519271f0419991a383d30dd180c767b456b33258157b7cca8234c39f0de5dcc86c38cb277e142c448cccfb51cd32fc256072ba9ae8b76cf112bce64fe34104cbcb1cd2e64aee4ab900a69b23c8287dc3302613adc5567434a9a7d6e27efc2fcf04d38e93b15b7990fa1b7640c364d92c2c72f0af8f7c0ca464cbfa977f326c3a18b98cf548a427aaef90c727bd36c3c6bbab354340640c038f677ffb073c48f077b2c71f2d5d0211e3ca158c8fe9563f6c4addc07de4265bb0eb838cd10b7be5535b0bb05f8c1b0965c7312c51e42eb9b50f2cb16f4aa4252df75d028540d7b138baf18bb0486afb8f9202b744c78127feba42a564375c4294f72f544a053de6eb741e3976cd0ab58b84b437240feefec1fb8f026d2268430a4cb8e3e17189878f7f4d428f02540b1e731eb937a40d8e587655548d74b68d196489035348c7b72f515f16f0c1818988d8cf06d952dccdf4352a7b696bb23d002c0d82efd5b99c85b0a6cc3b861508a825a544ce4adb698cdb54b153/198/426x240_448800/index.m3u8
-Evandis Gospel TV,https://evandis.streamakaci.tv/str_evandis_evandis/str_evandis_multi/str_evandis_evandis/str_evandis_evandis_720p/chunks.m3u8?nimblesessionid=14561817
 FashionTV Paris L'Original,https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/video_10801920_p_0.m3u8
 FashionTV Secrets,https://ssai.aniview.com/api/v1/hls/streams/sessions/328112ab75fe4c1e80a436be2e28aab6/media/manifest.m3u8/2.m3u8
 France 24,https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8
@@ -834,8 +797,6 @@ DW Arabic,https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/mast
 DW Espanol,https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream01/streamPlaylist.m3u8
 DW English,https://amg01644-amg01644c1-amgplt0343.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg01644-amg01644c1-amgplt0343/cb7f3e1a7b7b6f86cbcf6a6cd1f541a2d10f37855d31853265a2059021cb1e0c85e8fb95e843e74aebae62812b53310d0c78ce07de6c199ebe22f70f61770707fafda222b9c14d57e7c870493ab2727154ee524c8b70435fd8ea5a27b67d8d304532f81962530588bf22f4324dc3800f957e378aa8cd7942053e22e3414db9f905f6ef9608168333b8a17a1dd76c1cb8dc5dc8dc02be90a904cc1ada23ee1598e7f18fdb00e1d7c732eb0ead62590c6c2cdbc42892cc5fe6db9b6a749f272e115304b7a5c2b3166ed5430e0aaaa69fe763fd119ddf26d7521cd16ff0e0073ef0098927e5846da8a4b5de302e53c6e56811ec2478c2f09f1420b46781c2a3bd213ff1f2652c851d3a40200a18e90c4608db961baa9669e8957a14398fa24d9a93b58beeb9b797fd4f2da6d997274b426f054dd313f2da25d219d577a6cb48617f7d71ed9365cc89d75b704d7cc6d106eb465bb5d280869f233ac9203469a858901b247cdc38694be02fd2932823df765fcb6473aa0d75c869d48c01d9eb9be90f30b09ee047fc64e0fc4ae4f310ba6433574de2aa620a056172d2e76a087f289660b58792a1440806ede5c4b196036c4968653966e8ebc843e9ea91712243bb174c055500079a01a40cfe10590c2bb378da9c017b8b036341cba83d545669d6f8b98e89d3c027e426832f9c8aebe3ef0591e77c8294d0d7c8915542ffda8d5997/190/1920x1080_5060000/index.m3u8
 DW Russian,https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/master.m3u8
-EchtJetzt TV,https://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_all/bibeltv03/bibeltv03.stream_1/chunks.m3u8?nimblesessionid=1419553286
-Franken Fernsehen,https://frankentv.iptv-playoutcenter.de/frankentv/frankentv.stream_1/chunks.m3u8?nimblesessionid=1419555727
 hr-fernsehen,https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8
 HSE,https://hse24.akamaized.net/hls/live/2006663/hse24/master_1080p25.m3u8
 
@@ -857,9 +818,6 @@ Al Masirah Mubacher,https://live2.cdnbridge.tv/AlmasirahMubasher/Mubasher_All/Mu
 Al-Sahat TV,https://assahat.b-cdn.net/Assahat/assahatobs/index.m3u8
 
 
-🇹🇩乍得直播,#genre#
-Tele Tchad,https://strhlslb01.streamakaci.tv/str_tchad_tchad/str_tchad_multi/str_tchad_tchad/str_tchad_tchad_1080p/chunks.m3u8?nimblesessionid=14852917
-
 🇯🇲牙买加直播,#genre#
 Caribbean Gospel TV,https://25466019af9b7aed.servers.dvcloud.tv/hls/iptv_providers/fhvtgifbqbcjp0g19mdd76t18tpalu4k.m3u8
 
@@ -875,9 +833,6 @@ Moviesphere,https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 
 🇳🇬尼日利亚直播,#genre#
 Pulse,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-pulse-samsungau/playlist.m3u8
-
-🇿🇼津巴布韦直播,#genre#
-Yadah TV,https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_018/Stream/live18_2/medium/chunks.m3u8?nimblesessionid=1900459760
 
 🇲🇽墨西哥,#genre#
 Alcarria TV,http://cls.alcarria.tv/live/alcarriatv-livestream.m3u8
@@ -968,8 +923,6 @@ Bein Sports Extra 2,https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 Horse & Country,https://hncfree-samsungau.amagi.tv/playlist.m3u8
 MTRSPT,https://amg02873-kravemedia-mtrspt1-sportstribal-ajosc.amagi.tv/playlist/amg02873-kravemedia-mtrspt1-sportstribal/playlist.m3u8
 Trace Sport,https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
-Star Sports 1 Hindi HD,http://41.205.93.154/STARSPORTS1/index.m3u8
-Sony Sports 2 HD,https://stream.ottplus.live/live/ten_2_hd_abr/live/ten_2_hd_720/chunks.m3u8
 BEK TV Sports West,https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
  Turkmenistan Sport,http://217.174.225.146/hls/ch004_720/index.m3u8
 ACI Sport TV,https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
@@ -1399,6 +1352,7 @@ S哥影视,https://huyazhibo.de5.net/?id=24720260
 
 
 💃🏻热舞直播,#genre#
+虎牙精舞门,https://huyazhibo.de5.net/?id=880351
 顾止最爱的小胖宝贝,http://live.nctv.top/douyu1.php?id=238643
 少打白骨精,http://live.nctv.top/douyu1.php?id=11531165
 爱爱小s,http://live.nctv.top/douyu1.php?id=10308312
