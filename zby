@@ -1,4 +1,4 @@
-🇨🇳央卫视频道,#genre#
+央卫视频道,#genre#
 CCTV1综合,http://8.137.121.66:20241/608807420
 CCTV2财经,http://8.137.121.66:20241/631780532
 CCTV3综艺,http://8.137.121.66:20241/624878271
@@ -128,7 +128,7 @@ CETV4,http://8.137.121.66:20241/923287339
 环球旅游,http://8.137.121.66:20241/958475356
 梨园频道,http://8.137.121.66:20241/961930369
 
-🇨🇳央视频自建,#genre#
+央视频自建,#genre#
 CCTV-1 综合,https://yshipin.pages.dev/play/cctv1
 CCTV-1 综合 (备用),https://yshipin.pages.dev/play/cctv1?src=ysptp
 CCTV-2 财经,https://yshipin.pages.dev/play/cctv2
@@ -222,7 +222,7 @@ CCTV 怀旧剧场,https://yshipin.pages.dev/play/cctvhjjc
 CCTV-4K 备用,https://yshipin.pages.dev/play/cctv4kb
 
 
-🔮港澳台频道,#genre#
+港澳台频道,#genre#
 纬来体育,https://hlsz.yjjcfw.com/live/vl.m3u8?expire=1786948372&sign=2e4a56b89fe644db147552011f972714
 耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
 无线新闻台,http://cdn6.123.rr.kg/163189/wxxw
@@ -308,7 +308,45 @@ TVB Plus(WebVTT字幕),http://cdn10.123.rr.kg/163189/tvbp/
 黄金华剧台(WebVTT字幕),http://cdn10.123.rr.kg/163189/hjhjt/
 
 
-👶🏻少儿频道,#genre#
+台湾频道,#genre#
+TVBS HD,http://50.7.233.114:8278/tvbs/playlist.m3u8
+中天娱乐 CTI Entertaiment,http://50.7.233.114:8278/ctient/playlist.m3u8
+中天综合 CTI Metro,http://50.7.233.114:8278/ctizhonghe/playlist.m3u8
+中天亚洲台,http://50.7.233.114:8278/ctiasia_twn/playlist.m3u8
+台视综合台,http://50.7.233.114:8278/ttvzhonghe/playlist.m3u8
+民视 HD,http://50.7.233.114:8278/ftvhd_taiwan/playlist.m3u8
+民视台湾台,http://50.7.233.114:8278/ftvtaiwan_twn/playlist.m3u8
+八大戏剧 GTV Drama,http://50.7.233.114:8278/badadrama/playlist.m3u8
+三立台湾 Sanli Taiwan,http://50.7.233.114:8278/sanlitaiwan/playlist.m3u8
+龙华戏剧 Lunghua Drama,http://50.7.233.114:8278/lunghuaxiju_twn/playlist.m3u8
+年代新闻,http://50.7.233.114:8278/niandainews_twn/playlist.m3u8
+纬来电影台,http://50.7.233.114:8278/videolandmovie/playlist.m3u8
+纬来体育台,http://50.7.233.114:8278/videolandsport/playlist.m3u8
+纬来综合台,http://50.7.233.114:8278/videolandzonghe/playlist.m3u8
+好消息 2,http://50.7.233.114:8278/good2_twn/playlist.m3u8
+亚洲美食,http://50.7.233.114:8278/afc_twn/playlist.m3u8
+亚洲旅游 TLC Asia,http://50.7.233.114:8278/tlc_twn/playlist.m3u8
+博斯运动 1,http://50.7.233.114:8278/bosisport1_twn/playlist.m3u8
+东森洋片 ETTV Western,http://50.7.233.114:8278/ettvwestern/playlist.m3u8
+博斯无限,http://50.7.233.114:8278/bosiunlimited_twn/playlist.m3u8
+靖天卡通台,http://50.7.233.114:8278/jingtiancartoon_twn/playlist.m3u8
+EYETV 戏剧,http://50.7.233.114:8278/eyetvxiju_twn/playlist.m3u8
+东森幼幼 Yoyo TV,http://50.7.233.114:8278/yoyo_twn/playlist.m3u8
+美亚电影,http://50.7.233.114:8278/meiyamovie_twn/playlist.m3u8
+爱尔达戏剧台,http://50.7.233.114:8278/eltadrama_twn/playlist.m3u8
+東森財經新聞 ETTV Business,http://50.7.233.114:8278/ettvcaijing_twn/playlist.m3u8
+中天新聞 CTI News,http://50.7.233.114:8278/ctinews/playlist.m3u8
+非凡新聞台,http://50.7.233.114:8278/feifannews_twn/playlist.m3u8
+Elta体育1台,http://50.7.233.114:8278/eltasport1_twn/playlist.m3u8
+Elta體育2台,http://50.7.233.114:8278/eltasport2_twn/playlist.m3u8
+博斯高球2 HD,http://50.7.233.114:8278/bosigolf2_twn/playlist.m3u8
+寰宇新聞台,http://50.7.233.114:8278/huanyuxinwen_twn/playlist.m3u8
+中視新聞台,http://50.7.233.114:8278/zhongshinews_twn/playlist.m3u8
+DAZN 1,http://50.7.233.114:8278/dazn1_twn/playlist.m3u8
+动物星球,http://50.7.233.114:8278/animalplanet_twn/playlist.m3u8
+
+
+少儿频道,#genre#
 Zoo Moo,https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 ZB Cartoon,https://server.zillarbarta.com/zbcatun/video.m3u8
 Xtrema Cartoons,https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
@@ -363,7 +401,7 @@ Banijay Mr Bean Animé,https://amg00627-amg00627c31-rakuten-fr-3991.playouts.now
 开心锤锤动漫,https://douyuu.pages.dev/douyu/9018297
 茶啊二中,https://douyuu.pages.dev/douyu/2925610
 
-⚽️体育频道,#genre#
+体育频道,#genre#
 NHL FAST,https://nhl-firetv.amagi.tv/playlist1080p.m3u8
 A sports,https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8?e=1784102512&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=968935df4fd0678de5d7fe392c0610d9
 Sports First TV,https://d4ddgdmj1cvnm.cloudfront.net/scheduler/scheduleMaster/409.m3u8
@@ -418,7 +456,7 @@ Big3专场,https://huyazhibo.de5.net/?id=30847442
 帆船专场,https://huyazhibo.de5.net/?id=30805961
 
 
-🎞️影视频道,#genre#
+影视频道,#genre#
 华数动作影院,http://113.25.252.226:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC家庭影院,http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
 CHC动作电影,http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
@@ -486,17 +524,7 @@ CHC影迷电影,http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
 短片系列,https://douyuu.pages.dev/douyu/8700367
 
 
-💽纪实频道,#genre#
-碎片记,https://douyuu.pages.dev/douyu/9412981
-宇宙视界,https://douyuu.pages.dev/douyu/9498354
-科学放映室,https://douyuu.pages.dev/douyu/9439712
-宇宙探索飞船,https://douyuu.pages.dev/douyu/9456028
-世界未解之谜,https://douyuu.pages.dev/douyu/9369468
-航拍中国,https://huyazhibo.de5.net/?id=22414123
-中国通史,https://huyazhibo.de5.net/?id=20985822
-
-
-🎧音乐频道,#genre#
+音乐频道,#genre#
 阿七点歌台,https://douyuu.pages.dev/douyu/3186217
 音悦喵点歌台,https://douyuu.pages.dev/douyu/3870925
 音乐台长,https://douyuu.pages.dev/douyu/9629943
@@ -517,7 +545,7 @@ CHC影迷电影,http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
 日语专场,https://huyazhibo.de5.net/?id=21241795
 
 
-🍟动漫频道,#genre#
+动漫频道,#genre#
 名侦探柯南,https://huyazhibo.de5.net/?id=30080236
 火影忍者,https://huyazhibo.de5.net/?id=29465866
 海贼王,https://huyazhibo.de5.net/?id=29982634
@@ -572,19 +600,7 @@ CHC影迷电影,http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
 英雄联盟,https://huyazhibo.de5.net/?id=23903196
 
 
-✡️休闲频道,#genre#
-微笑和苦瓜,https://huyazhibo.de5.net/?id=28213261
-熊孩子沙雕动画,https://huyazhibo.de5.net/?id=25243852
-悸动,https://huyazhibo.de5.net/?id=28272846
-小小天才搞笑视频,https://douyuu.pages.dev/douyu/9419678
-冰糖葫芦没放盐V,https://douyuu.pages.dev/douyu/3505453
-动画大师姐,https://douyuu.pages.dev/douyu/9742136
-立秋动画,https://douyuu.pages.dev/douyu/10351891
-天才大熊猫啊,https://douyuu.pages.dev/douyu/10646699
-绘说篮球C,https://douyuu.pages.dev/douyu/9401305
-
-
-✴️咪视界直播[移动],#genre#
+咪视界[移动],#genre#
 至臻视界4K,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=yu&mode=1&$4M
 至臻视界4K,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=toShengfen&mode=1&$24M-FifastbLive
 咪视界4K,http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3$
@@ -626,7 +642,7 @@ CHC影迷电影,http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
 咪视界36,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000023434&livemode=1&stbId=yu&mode=1&$5M
 
 
-✴️内网直播[移动],#genre#
+内网[移动],#genre#
 CCTV1,http://111.29.9.33:6610/000000001000/1000000001000021973/index.m3u8?channel-id=bestzb&Contentid=1000000001000021973&livemode=1&stbId=3
 CCTV2,http://111.29.9.33:6610/000000001000/1000000001000012442/index.m3u8?channel-id=bestzb&Contentid=1000000001000012442&livemode=1&stbId=3
 CCTV3,http://111.29.9.33:6610/000000001000/1000000001000011218/index.m3u8?channel-id=bestzb&Contentid=1000000001000011218&livemode=1&stbId=3
@@ -692,7 +708,7 @@ CCTV17,http://111.29.9.33:6610/000000001000/1000000005000056836/index.m3u8?chann
 嘉佳卡通,http://111.29.9.33:6610/000000001000/1000000002000025964/index.m3u8?channel-id=bestzb&Contentid=1000000002000025964&livemode=1&stbId=3
 黑莓动画,http://111.29.9.33:6610/000000001000/1000000004000021734/index.m3u8?channel-id=bestzb&Contentid=1000000004000021734&livemode=1&stbId=3
 
-✴️ITV直播[移动],#genre#
+ITV[移动],#genre#
 CCTV1,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=yu&mode=1&$8M
 CCTV1,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000010000030810&livemode=1&stbId=yu&mode=1&$4M
 CCTV1,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=1&stbId=yu&mode=1&$8M
@@ -960,7 +976,7 @@ CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 山东教育卫视,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000002000004097&livemode=1&stbId=yu&mode=1&$4M
 
 
-✴️BestTV直播[移动],#genre#
+BestTV[移动],#genre#
 百视通1,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000001000002898&livemode=1&stbId=yu&mode=1&$4M
 百视通2,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000001000004876&livemode=1&stbId=yu&mode=1&$4M
 百视通3,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000001000006777&livemode=1&stbId=yu&mode=1&$4M
@@ -973,7 +989,7 @@ CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 百视通10,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000001000017342&livemode=1&stbId=yu&mode=1&$4M
 
 
-✴️NewTV直播[移动],#genre#
+NewTV[移动],#genre#
 NewTV卡酷少儿,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=7851974109718180595&livemode=1&stbId=yu&mode=1&$8M
 NewTV卡酷少儿,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=7589856436881630561&livemode=1&stbId=yu&mode=1&$2M
 NewTV优漫卡通,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000002000010063&livemode=1&stbId=yu&mode=1&$4M
@@ -1064,7 +1080,7 @@ NewTV泰语剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_949_108
 NewTV大家剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_975_1080P_t10/c58_fast_975_1080P_t10.m3u8?d
 NewTV爱情剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c59_fast_967_1080P_t10/c59_fast_967_1080P_t10.m3u8?d
 
-👖裤佬收藏,#genre#
+裤佬收藏,#genre#
 解说,https://douyuu.pages.dev/douyu/9986305
 擦边,https://douyuu.pages.dev/douyu/10205199
 车模,https://douyuu.pages.dev/douyu/9837104
@@ -1073,3 +1089,12 @@ NewTV爱情剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c59_fast_967_108
 热舞,https://huyazhibo.de5.net/?id=880351
 模特,https://huyazhibo.de5.net/?id=18501378
 乡野,https://huyazhibo.de5.net/?id=21969336
+微笑和苦瓜,https://huyazhibo.de5.net/?id=28213261
+熊孩子沙雕动画,https://huyazhibo.de5.net/?id=25243852
+悸动,https://huyazhibo.de5.net/?id=28272846
+小小天才搞笑视频,https://douyuu.pages.dev/douyu/9419678
+冰糖葫芦没放盐V,https://douyuu.pages.dev/douyu/3505453
+动画大师姐,https://douyuu.pages.dev/douyu/9742136
+立秋动画,https://douyuu.pages.dev/douyu/10351891
+天才大熊猫啊,https://douyuu.pages.dev/douyu/10646699
+绘说篮球C,https://douyuu.pages.dev/douyu/9401305
