@@ -345,6 +345,22 @@ Elta體育2台,http://50.7.233.114:8278/eltasport2_twn/playlist.m3u8
 DAZN 1,http://50.7.233.114:8278/dazn1_twn/playlist.m3u8
 动物星球,http://50.7.233.114:8278/animalplanet_twn/playlist.m3u8
 
+澳门频道,#genre#
+澳视澳门,https://globallive.tdm.com.mo/ch1/ch1.live/playlist.m3u8
+澳视葡文,https://globallive.tdm.com.mo/ch2/ch2.live/playlist.m3u8
+澳门资讯,https://globallive.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
+澳门体育,https://globallive.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
+澳门综艺,https://globallive.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
+澳门Macau,https://globallive.tdm.com.mo/ch3/ch3.live/playlist.m3u8
+CCTV1港澳版,https://globallive.tdm.com.mo/cgtn/cgtn71/playlist.m3u8
+澳视澳门,https://locallive.tdm.com.mo/ch1/ch1.live/playlist.m3u8
+澳视葡文,https://locallive.tdm.com.mo/ch2/ch2.live/playlist.m3u8
+澳门资讯,https://locallive.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
+澳门体育,https://locallive.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
+澳门综艺,https://locallive.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
+澳门Macau,https://locallive.tdm.com.mo/ch3/ch3.live/playlist.m3u8
+CCTV1港澳版,https://locallive.tdm.com.mo/cgtn/cgtn71/playlist.m3u8
+
 
 少儿频道,#genre#
 Zoo Moo,https://zoomoo-samsungau.amagi.tv/playlist.m3u8
