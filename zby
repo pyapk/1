@@ -1,4 +1,4 @@
-央卫视频道,#genre#
+央卫视❶,#genre#
 CCTV1综合,http://8.137.121.66:20241/608807420
 CCTV2财经,http://8.137.121.66:20241/631780532
 CCTV3综艺,http://8.137.121.66:20241/624878271
@@ -128,7 +128,7 @@ CETV4,http://8.137.121.66:20241/923287339
 环球旅游,http://8.137.121.66:20241/958475356
 梨园频道,http://8.137.121.66:20241/961930369
 
-央视频自建,#genre#
+央卫视❷,#genre#
 CCTV-1 综合,https://yshipin.pages.dev/play/cctv1
 CCTV-1 综合 (备用),https://yshipin.pages.dev/play/cctv1?src=ysptp
 CCTV-2 财经,https://yshipin.pages.dev/play/cctv2
@@ -222,26 +222,209 @@ CCTV 怀旧剧场,https://yshipin.pages.dev/play/cctvhjjc
 CCTV-4K 备用,https://yshipin.pages.dev/play/cctv4kb
 
 
-港澳台频道,#genre#
+央卫视❸,#genre#
+CCTV1综合,http://mg.cttv.vip/migu.php?pid=608807420
+CCTV2财经,http://mg.cttv.vip/migu.php?pid=631780532
+CCTV3综艺,http://mg.cttv.vip/migu.php?pid=624878271
+CCTV4中文国际,http://mg.cttv.vip/migu.php?pid=631780421
+CCTV5体育,http://mg.cttv.vip/migu.php?pid=641886683
+CCTV5+体育赛事,http://mg.cttv.vip/migu.php?pid=641886773
+CCTV6电影,http://mg.cttv.vip/migu.php?pid=624878396
+CCTV7国防军事,http://mg.cttv.vip/migu.php?pid=673168121
+CCTV8电视剧,http://mg.cttv.vip/migu.php?pid=624878356
+CCTV9纪录,http://mg.cttv.vip/migu.php?pid=673168140
+CCTV10科教,http://mg.cttv.vip/migu.php?pid=624878405
+CCTV11戏曲,http://mg.cttv.vip/migu.php?pid=667987558
+CCTV12社会与法,http://mg.cttv.vip/migu.php?pid=673168185
+CCTV13新闻,http://mg.cttv.vip/migu.php?pid=608807423
+CCTV14少儿,http://mg.cttv.vip/migu.php?pid=624878440
+CCTV15音乐,http://mg.cttv.vip/migu.php?pid=673168223
+CCTV17农业农村,http://mg.cttv.vip/migu.php?pid=673168256
+CCTV4欧洲,http://mg.cttv.vip/migu.php?pid=608807419
+CCTV4美洲,http://mg.cttv.vip/migu.php?pid=608807416
+CGTN外语纪录,http://mg.cttv.vip/migu.php?pid=609006487
+CGTN阿拉伯语,http://mg.cttv.vip/migu.php?pid=609154345
+CGTN西班牙语,http://mg.cttv.vip/migu.php?pid=609006450
+CGTN法语,http://mg.cttv.vip/migu.php?pid=609006476
+CGTN俄语,http://mg.cttv.vip/migu.php?pid=609006446
+老故事,http://mg.cttv.vip/migu.php?pid=884121956
+发现之旅,http://mg.cttv.vip/migu.php?pid=624878970
+CGTN,http://mg.cttv.vip/migu.php?pid=609017205
+东方卫视,http://mg.cttv.vip/migu.php?pid=651632648
+江苏卫视,http://mg.cttv.vip/migu.php?pid=623899368
+广东卫视,http://mg.cttv.vip/migu.php?pid=608831231
+北京卫视,http://mg.cttv.vip/migu.php?pid=630287636
+辽宁卫视,http://mg.cttv.vip/migu.php?pid=630291707
+河北卫视,http://mg.cttv.vip/migu.php?pid=962042070
+江西卫视,http://mg.cttv.vip/migu.php?pid=783847495
+河南卫视,http://mg.cttv.vip/migu.php?pid=790187291
+陕西卫视,http://mg.cttv.vip/migu.php?pid=738910838
+大湾区卫视,http://mg.cttv.vip/migu.php?pid=608917627
+湖北卫视,http://mg.cttv.vip/migu.php?pid=947472496
+吉林卫视,http://mg.cttv.vip/migu.php?pid=947472500
+青海卫视,http://mg.cttv.vip/migu.php?pid=947472506
+东南卫视,http://mg.cttv.vip/migu.php?pid=849116810
+海南卫视,http://mg.cttv.vip/migu.php?pid=947472502
+海峡卫视,http://mg.cttv.vip/migu.php?pid=849119120
+中国农林卫视,http://mg.cttv.vip/migu.php?pid=956904896
+兵团卫视,http://mg.cttv.vip/migu.php?pid=956923145
+宁夏卫视,http://mg.cttv.vip/migu.php?pid=738910535
+重庆卫视,http://mg.cttv.vip/migu.php?pid=738910914
+三沙卫视,http://mg.cttv.vip/migu.php?pid=961023778
+黑龙江卫视,http://mg.cttv.vip/migu.php?pid=738906901
+上视新闻综合,http://mg.cttv.vip/migu.php?pid=651632657
+上视东方影视,http://mg.cttv.vip/migu.php?pid=617290047
+上海第一财经,http://mg.cttv.vip/migu.php?pid=608780988
+南京新闻综合频道,http://mg.cttv.vip/migu.php?pid=838109047
+南京教科频道,http://mg.cttv.vip/migu.php?pid=838153729
+南京十八频道,http://mg.cttv.vip/migu.php?pid=838151753
+体育休闲频道,http://mg.cttv.vip/migu.php?pid=626064707
+江苏城市频道,http://mg.cttv.vip/migu.php?pid=626064714
+江苏国际,http://mg.cttv.vip/migu.php?pid=626064674
+江苏教育,http://mg.cttv.vip/migu.php?pid=628008321
+江苏影视频道,http://mg.cttv.vip/migu.php?pid=626064697
+江苏综艺频道,http://mg.cttv.vip/migu.php?pid=626065193
+公共新闻频道,http://mg.cttv.vip/migu.php?pid=626064693
+盐城新闻综合,http://mg.cttv.vip/migu.php?pid=639731825
+淮安新闻综合,http://mg.cttv.vip/migu.php?pid=639731826
+泰州新闻综合,http://mg.cttv.vip/migu.php?pid=639731818
+连云港新闻综合,http://mg.cttv.vip/migu.php?pid=639731715
+宿迁新闻综合,http://mg.cttv.vip/migu.php?pid=639731832
+徐州新闻综合,http://mg.cttv.vip/migu.php?pid=639731747
+优漫卡通频道,http://mg.cttv.vip/migu.php?pid=626064703
+南通新闻综合,http://mg.cttv.vip/migu.php?pid=955227985
+宜兴新闻综合,http://mg.cttv.vip/migu.php?pid=955227996
+溧水新闻综合,http://mg.cttv.vip/migu.php?pid=639737327
+陕西银龄频道,http://mg.cttv.vip/migu.php?pid=956909362
+陕西都市青春频道,http://mg.cttv.vip/migu.php?pid=956909358
+陕西体育休闲频道,http://mg.cttv.vip/migu.php?pid=956909356
+陕西秦腔频道,http://mg.cttv.vip/migu.php?pid=956909303
+陕西新闻资讯频道,http://mg.cttv.vip/migu.php?pid=956909289
+财富天下,http://mg.cttv.vip/migu.php?pid=956923159
+镇江新闻综合,http://mg.cttv.vip/migu.php?pid=639731783
+海南广播电视总台新闻频道,http://mg.cttv.vip/migu.php?pid=962067517
+海南广播电视总台自贸频道,http://mg.cttv.vip/migu.php?pid=962045226
+海南广播电视总台社会与法频道,http://mg.cttv.vip/migu.php?pid=962045223
+海南广播电视总台文旅频道,http://mg.cttv.vip/migu.php?pid=962067526
+海南广播电视总台少儿频道,http://mg.cttv.vip/migu.php?pid=962067523
+广东珠江频道,http://mg.cttv.vip/migu.php?pid=639731952
+吉林生活频道,http://mg.cttv.vip/migu.php?pid=968553133
+吉林综艺文化频道,http://mg.cttv.vip/migu.php?pid=968553163
+吉林乡村频道,http://mg.cttv.vip/migu.php?pid=968553176
+吉林影视频道,http://mg.cttv.vip/migu.php?pid=968553184
+吉林都市频道,http://mg.cttv.vip/migu.php?pid=968553190
+赛事最经典,http://mg.cttv.vip/migu.php?pid=646596895
+体坛名栏汇,http://mg.cttv.vip/migu.php?pid=629943305
+四海钓鱼,http://mg.cttv.vip/migu.php?pid=637444975
+陕西体育休闲频道,http://mg.cttv.vip/migu.php?pid=956909356
+24小时城市联赛轮播台,http://mg.cttv.vip/migu.php?pid=915512915
+武术世界,http://mg.cttv.vip/migu.php?pid=958475359
+快乐垂钓,http://mg.cttv.vip/migu.php?pid=961930263
+建党105周年巡礼,http://mg.cttv.vip/migu.php?pid=713600957
+经典香港电影,http://mg.cttv.vip/migu.php?pid=625703337
+新片放映厅,http://mg.cttv.vip/migu.php?pid=619495952
+CHC影迷电影,http://mg.cttv.vip/migu.php?pid=952383261
+CHC动作电影,http://mg.cttv.vip/migu.php?pid=644368714
+CHC家庭影院,http://mg.cttv.vip/migu.php?pid=644368373
+和美乡途轮播台,http://mg.cttv.vip/migu.php?pid=713591450
+南方影视,http://mg.cttv.vip/migu.php?pid=614961829
+经典香港电影,http://mg.cttv.vip/migu.php?pid=625703337
+
+
+港澳台,#genre#
+DAZN体育1,rtmp://f13h.mine.nu/sat/tv731
+DAZN体育2,rtmp://f13h.mine.nu/sat/tv741
+momotv,rtmp://f13h.mine.nu/sat/tv761
 纬来体育,https://hlsz.yjjcfw.com/live/vl.m3u8?expire=1786948372&sign=2e4a56b89fe644db147552011f972714
-耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
-无线新闻台,http://cdn6.123.rr.kg/163189/wxxw
-娱乐新闻台,http://cdn6.123.rr.kg/163189/ylxw
-澳门体育,http://cdn6.123.rr.kg/163189/amty
-澳门莲花,http://cdn6.123.rr.kg/163189/amlh
-VIUTV,https://cdn.123.rr.kg/163189/viu
-好消息综合台,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
-Astro AEC,https://cdn3.indevs.in/stream/live/aec/
-Astro欢喜台,https://cdn3.indevs.in/stream/live/hxt/
-iQIYI,https://cdn3.indevs.in/stream/live/iqiyi/
-TVB星河,https://cdn3.indevs.in/stream/live/tvbxh/
-TVBPlus,https://cdn3.indevs.in/stream/tvb/tvbp/
-翡翠台4K字幕,https://cdn3.indevs.in/stream/tvb/fct4k/
-翡翠台字幕,https://cdn3.indevs.in/stream/tvb/fct/
-华丽翡翠台新加坡,https://cdn3.indevs.in/stream/live/jade/
+纬来体育,rtmp://f13h.mine.nu/sat/tv721
+纬来育乐,rtmp://f13h.mine.nu/sat/tv701
+纬来日本,rtmp://f13h.mine.nu/sat/tv771
+翡翠台,https://cdn3.indevs.in/stream/tvb/fct4k/
+翡翠台,http://cc.123.rr.kg/163189/fct
+翡翠台,https://cdn3.indevs.in/stream/tvb/fct/
+翡翠台,http://cdn6.123.rr.kg/163189/fct
+翡翠台,http://218.13.139.26:9901/tsfile/live/1079_1.m3u8?key=txiptv&playlive=1&authid=0
+翡翠台,http://211.97.63.3:3443/hls/541/index.m3u8
+翡翠台,http://cdn3.123.rr.kg/stream/tvb/fct/
+翡翠台,http://cdn10.123.rr.kg/163189/fct/
+华丽翡翠,http://cdn6.123.rr.kg/163189/hlfct
+华丽翡翠,http://cdn6.123.rr.kg/163189/jade
+华丽翡翠,http://cdn3.123.rr.kg/stream/live/jade/
+华丽翡翠,https://cdn3.indevs.in/stream/live/jade/
+翡翠剧集,http://cdn6.123.rr.kg/163189/tvbd
+HOY76,https://cdn11.163189.xyz/163189/hoy76
+HOY76,https://cdn11.163189.xyz/163189/hoy76
+HOY77,https://cc.123.rr.kg/163189/hoy
+HOY77,https://fast.hidns.vip/163189/hoy
+HOY77,http://cdn6.123.rr.kg/163189/hoy
+HOY78,https://fast.hidns.vip/163189/hoy78
+HOY78,http://cdn.123.rr.kg/163189/hoy78
+龙华电影,https://8.fast.hidns.vip/163189/lhdy
+龙华经典,https://8.fast.hidns.vip/163189/lhjd
+龙华偶像,https://8.fast.hidns.vip/163189/lhox
+龙华日韩,https://8.fast.hidns.vip/163189/lhrh
+龙华戏剧,https://8.fast.hidns.vip/163189/lhxj
+龙华洋片,https://8.fast.hidns.vip/163189/lhyp
+龙华卡通,https://8.fast.hidns.vip/163189/lhkt
+中视经典,http://167.88.62.43:64008/0.ts
+中视箐采,http://167.88.62.43:64009/0.ts
+民视,rtmp://f13h.mine.nu/sat/tv051
+中视,rtmp://f13h.mine.nu/sat/tv091
+华视,rtmp://f13h.mine.nu/sat/tv111
+台视,rtmp://f13h.mine.nu/sat/tv071
 天映,https://cdn3.indevs.in/stream/live/typd/
+天映,https://10.fast.hidns.vip/163189/typd/
+天映,http://cdn3.123.rr.kg/stream/live/typd/
+天映,http://cdn10.123.rr.kg/163189/typd/
+天映经典,https://10.fast.hidns.vip/163189/ccm/
 天映经典,https://cdn3.indevs.in/stream/live/ccm/
+天映经典,http://cdn3.123.rr.kg/stream/live/ccm/
+天映经典,http://cdn10.123.rr.kg/163189/ccm/
+明珠台,http://cdn3.123.rr.kg/stream/tvb/mzt/
+明珠台,http://cdn10.123.rr.kg/163189/mzt/
+欢喜台,https://cdn3.indevs.in/stream/live/hxt/
+欢喜台,http://cdn3.123.rr.kg/stream/live/hxt/
+黄金华剧台,http://cdn10.123.rr.kg/163189/hjhjt/
+Astro AEC,https://cdn3.indevs.in/stream/live/aec/
+Astro AEC,http://cdn3.123.rr.kg/stream/live/aec/
+Astro AOD,http://cdn3.123.rr.kg/stream/live/aod/
+VIUTV,https://cdn.123.rr.kg/163189/viu
+ViuTVsix,https://10.fast.hidns.vip/163189/viu6/
+ViuTVsix,http://cdn10.123.rr.kg/163189/viu6/
+CH5,http://cdn6.123.rr.kg/163189/ch5
+CH8,http://cdn6.123.rr.kg/163189/ch8
+CHU,http://cdn6.123.rr.kg/163189/chu
+iQIYI,https://cdn3.indevs.in/stream/live/iqiyi/
+iQIYI,http://cdn3.123.rr.kg/stream/live/iqiyi/
+TVB1,http://cdn6.123.rr.kg/163189/tvb1
+TVBJ1,http://cdn6.123.rr.kg/163189/j1
+TVBS Asia,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+TVB Plus,http://cdn3.123.rr.kg/stream/tvb/tvbp/
+TVB Plus,https://cdn3.indevs.in/stream/tvb/tvbp/
+TVB Plus,http://167.88.62.43:64012/0.ts
+TVB Plus,http://cdn10.123.rr.kg/163189/tvbp/
+TVB星河,https://10.fast.hidns.vip/163189/xinghe/
+TVB星河,https://cdn3.indevs.in/stream/live/tvbxh/
+TVB星河,http://cdn3.123.rr.kg/stream/live/tvbxh/
+TVB星河,http://cdn6.123.rr.kg/163189/tvbxh
+TVB星河,http://cdn10.123.rr.kg/163189/xinghe/
+TVB亚洲武侠,http://cdn6.123.rr.kg/163189/yzwx
+TVB千禧经典,http://cdn3.123.rr.kg/stream/live/tvbc/
+凤凰中文,http://cdn6.123.rr.kg/163189/fhzw
+凤凰资讯,http://cdn6.123.rr.kg/163189/fhzx
+凤凰香港,http://cdn6.123.rr.kg/163189/fhhk
+RTHK31,https://fast.hidns.vip/163189/rthk31
+RTHK31,http://cdn.123.rr.kg/163189/rthk31
+RTHK32,https://fast.hidns.vip/163189/rthk32
+RTHK32,http://cdn.123.rr.kg/163189/rthk32
+澳视澳门,http://cdn6.123.rr.kg/163189/asam
+澳视卫星,http://cdn6.123.rr.kg/163189/as
+澳门体育,http://cdn6.123.rr.kg/163189/amty
+澳门综艺,http://cdn6.123.rr.kg/163189/amzy
+澳门莲花,http://cdn6.123.rr.kg/163189/amlh
 LIVE三立,https://d2jc41c1shgcol.cloudfront.net/live/setnewsrtmp/playlist.m3u8
+NOW新闻,https://fast.hidns.vip/163189/now
+NOW新闻,http://cdn.123.rr.kg/163189/now
 TVBS新闻,https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
 东森新闻,https://d2jc41c1shgcol.cloudfront.net/live/EBCNews/playlist.m3u8
 华视新闻,https://d2jc41c1shgcol.cloudfront.net/live/ctsnewsqt/playlist.m3u8
@@ -249,66 +432,30 @@ TVBS新闻,https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
 三立新闻,https://d2jc41c1shgcol.cloudfront.net/live/iNEWS/playlist.m3u8
 中视新闻,https://d2jc41c1shgcol.cloudfront.net/live/ctvnewsqt/playlist.m3u8
 中天新闻,https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/playlist.m3u8
+寰宇新闻,http://128.14.206.166/pull-f5.flive.douyincdn.com/live/hyxw.flv
+非凡新闻,http://167.88.62.43:64018/0.ts
+非凡新闻,rtmp://f13h.mine.nu/sat/tv581
+无线新闻,http://cdn6.123.rr.kg/163189/wxxw
+无线新闻,http://128.14.206.166/pull-f5.flive.douyincdn.com/live/wxxw.flv
+无线新闻,http://cc.123.rr.kg/163189/wxxwt
+无线新闻,http://cdn6.123.rr.kg/163189/wxxw
+娱乐新闻,http://cdn6.123.rr.kg/163189/ylxw
+娱乐新闻, http://cc.123.rr.kg/163189/ylxw
+东森超视,rtmp://f13h.mine.nu/sat/tv331
+美食星球,http://167.88.62.43:64017/0.ts
+耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
+好消息综合,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
+重温经典,https://168.sryze.cc/163189/cwjd
+八度空间,http://cdn6.123.rr.kg/163189/8tv
 人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
-CGN中文台,https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f603e8f5d83/CGNWebLiveCN.m3u8
+唯心电视,https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+CGN中文,https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f603e8f5d83/CGNWebLiveCN.m3u8
 Dali TV,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 TITV,https://streamipcfapp.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
-TVBS Asia,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
-唯心電視,https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 Pet Club TV,https://petclub-samsungaus.amagi.tv/playlist.m3u8
-千禧经典台,http://cdn3.123.rr.kg/stream/live/tvbc/
-八度空间,http://cdn6.123.rr.kg/163189/8tv
-CH5,http://cdn6.123.rr.kg/163189/ch5
-CH8,http://cdn6.123.rr.kg/163189/ch8
-CHU,http://cdn6.123.rr.kg/163189/chu
-TVB星河1,http://cdn3.123.rr.kg/stream/live/tvbxh/
-TVB星河2,http://cdn6.123.rr.kg/163189/tvbxh
-TVB星河3,http://cdn10.123.rr.kg/163189/xinghe/
-华丽翡翠台1,http://cdn6.123.rr.kg/163189/hlfct
-华丽翡翠台(硬字幕),http://cdn6.123.rr.kg/163189/jade
-华丽翡翠台(新加坡),http://cdn3.123.rr.kg/stream/live/jade/
-翡翠剧集台,http://cdn6.123.rr.kg/163189/tvbd
-翡翠台,http://cdn6.123.rr.kg/163189/fct
-翡翠台(字幕),http://cdn3.123.rr.kg/stream/tvb/fct/
-天映频道,http://cdn3.123.rr.kg/stream/live/typd/
-天映新加坡,http://cdn10.123.rr.kg/163189/typd/
-AOD,http://cdn3.123.rr.kg/stream/live/aod/
-欢喜台,http://cdn3.123.rr.kg/stream/live/hxt/
-爱奇艺,http://cdn3.123.rr.kg/stream/live/iqiyi/
-天映经典台,http://cdn3.123.rr.kg/stream/live/ccm/
-天映经典台2,http://cdn10.123.rr.kg/163189/ccm/
-TVB1,http://cdn6.123.rr.kg/163189/tvb1
-TVBJ1,http://cdn6.123.rr.kg/163189/j1
-TVB Plus(字幕),http://cdn3.123.rr.kg/stream/tvb/tvbp/
-无线新闻台1,http://cdn6.123.rr.kg/163189/wxxw
-无线新闻台2,http://cdn6.123.rr.kg/163189/wxxwt
-明珠台(字幕),http://cdn3.123.rr.kg/stream/tvb/mzt/
-TVB娱乐新闻台,http://cdn6.123.rr.kg/163189/ylxw
-NOW新闻台,http://cdn.123.rr.kg/163189/now
-TVB亚洲武侠,http://cdn6.123.rr.kg/163189/yzwx
-ViuTVsix,http://cdn10.123.rr.kg/163189/viu6/
-凤凰中文,http://cdn6.123.rr.kg/163189/fhzw
-凤凰资讯,http://cdn6.123.rr.kg/163189/fhzx
-凤凰香港,http://cdn6.123.rr.kg/163189/fhhk
-HOY TV,http://cdn6.123.rr.kg/163189/hoy
-HOY TV,http://cdn.123.rr.kg/163189/hoy
-HOY资讯台,http://cdn.123.rr.kg/163189/hoy78
-HOY国际财经台,https://cdn11.163189.xyz/163189/hoy76
-RTHK31,http://cdn.123.rr.kg/163189/rthk31
-RTHK32,http://cdn.123.rr.kg/163189/rthk32
-澳视澳门,http://cdn6.123.rr.kg/163189/asam
-澳视卫星,http://cdn6.123.rr.kg/163189/as
-澳门体育,http://cdn6.123.rr.kg/163189/amty
-澳门综艺,http://cdn6.123.rr.kg/163189/amzy
-澳门莲花,http://cdn6.123.rr.kg/163189/amlh
-Astro AEC,http://cdn3.123.rr.kg/stream/live/aec/
-翡翠台(WebVTT字幕),http://cdn10.123.rr.kg/163189/fct/
-明珠台(WebVTT字幕),http://cdn10.123.rr.kg/163189/mzt/
-TVB Plus(WebVTT字幕),http://cdn10.123.rr.kg/163189/tvbp/
-黄金华剧台(WebVTT字幕),http://cdn10.123.rr.kg/163189/hjhjt/
 
 
-香港频道[挂梯],#genre#
+香港[挂梯],#genre#
 HOY TV,https://cdn.qd.je/163189/hoy
 HOY TV,https://cdn.qd.je/163189/hoy2
 HOY资讯台,https://cdn.qd.je/163189/hoy78
@@ -346,7 +493,7 @@ TVB星河,https://cdn.qd.je/163189/xinghe
 华丽翡翠台,https://cdn.qd.je/163189/jade
 
 
-台湾频道[挂梯],#genre#
+台湾[挂梯],#genre#
 TVBS HD,http://50.7.233.114:8278/tvbs/playlist.m3u8
 中天娱乐 CTI Entertaiment,http://50.7.233.114:8278/ctient/playlist.m3u8
 中天综合 CTI Metro,http://50.7.233.114:8278/ctizhonghe/playlist.m3u8
@@ -383,7 +530,7 @@ Elta體育2台,http://50.7.233.114:8278/eltasport2_twn/playlist.m3u8
 DAZN 1,http://50.7.233.114:8278/dazn1_twn/playlist.m3u8
 动物星球,http://50.7.233.114:8278/animalplanet_twn/playlist.m3u8
 
-澳门频道[挂梯],#genre#
+澳门[挂梯],#genre#
 澳视澳门,https://globallive.tdm.com.mo/ch1/ch1.live/playlist.m3u8
 澳视葡文,https://globallive.tdm.com.mo/ch2/ch2.live/playlist.m3u8
 澳门资讯,https://globallive.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
@@ -398,7 +545,7 @@ CCTV1港澳版,https://globallive.tdm.com.mo/cgtn/cgtn71/playlist.m3u8
 澳门莲花,https://cdn.qd.je/163189/amlh
 
 
-少儿频道,#genre#
+少儿,#genre#
 Zoo Moo,https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 ZB Cartoon,https://server.zillarbarta.com/zbcatun/video.m3u8
 Xtrema Cartoons,https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
@@ -415,33 +562,26 @@ SKWAD,https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=71
 Sat 7 Kids,https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8
 Ryzhiy,https://stream8.cinerama.uz/1407/tracks-v1a1/mono.m3u8
 RiC,https://rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8
-PLUSPLUS,http://stream.mcquack.net/339/index.m3u8
 Persiana Junior,https://junhls.persiana.live/hls/stream.m3u8
 PBS Kids Hawaii,https://livestream.pbskids.org/out/v1/aa31792fee094b24b09045483f04d150/hast.m3u8
 PBS Kids Alaska,https://livestream.pbskids.org/out/v1/94b88ad58fc14f84a9382341f1c00b82/akst.m3u8
 PBS Kids,https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
 PBS Kids Mountain,https://livestream.pbskids.org/out/v1/3fe3030a2c8045a3932f4289d9eba3e6/mst.m3u8
 PBS Kids Pacific,https://livestream.pbskids.org/out/v1/11f2e6b73eaa4887b3746cb863960e79/pst.m3u8
-O!,http://stream.mcquack.net/60/index.m3u8
 Nicktoons CIS,https://stream8.cinerama.uz/1502/playlist.m3u8
 Nickelodeon CIS,https://stream8.cinerama.uz/1500/playlist.m3u8
 NickToons Brasil,https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
 Nickelodeon,https://ma.anixa.tv/clips/stream/nickelodeon/playlist.php
-Nickelodeon,http://stream.mcquack.net/443/index.m3u8
 Nick Jr,https://stream8.cinerama.uz/1501/playlist.m3u8
 Mr. Bean Anime Spain,https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
 Mr. Bean Anime Italy,https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8
 Moonbug Kids,https://moonbug-rokuus.amagi.tv/playlist.m3u8
 Minika Go,https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
 Minika Cocuk,https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8
-Mama,http://stream.mcquack.net/79/index.m3u8
-KinoKazka,http://stream.mcquack.net/167/index.m3u8
 KiKA,https://dash4.antik.sk/live/test_kika_tizen/playlist.m3u8
 KiKA,https://kikahls.akamaized.net/hls/live/2022690/livetvkika_ww/master.m3u8
 KidsFlix,https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 Kartoon Channel,https://lightning-fnf-samsungaus.amagi.tv/playlist.m3u8
-Kapitan Fantastika,http://stream.mcquack.net/144/index.m3u8
-Hop!,http://stream.mcquack.net/44/index.m3u8
 Groovia Kids,https://gist.githubusercontent.com/iptvonlinetv/244b66c61f162a7c0c2b4fa59b528139/raw/2376b7ba1989ebbd383301ec7d645e222a6c9338/udp780.510.345:4545.m3u8
 FunBox,http://186.148.196.100:8000/play/a00d
 Disney Jr. Latin America South,http://45.134.141.161:2200/ARG/Disney_Junior/index.m3u8
@@ -453,9 +593,8 @@ Banijay Mr Bean Animé,https://amg00627-amg00627c31-rakuten-fr-3991.playouts.now
 开心锤锤动漫,https://douyuu.pages.dev/douyu/9018297
 茶啊二中,https://douyuu.pages.dev/douyu/2925610
 
-体育频道,#genre#
+体育,#genre#
 NHL FAST,https://nhl-firetv.amagi.tv/playlist1080p.m3u8
-Canal+ Sport,http://tv.streambox.fr/live/testlivestream/testlivestream/31.m3u8
 FB TV,http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
 Fox Sports News,https://skynewsau-live-premium.akamaized.net/hls/live/2105307/foxsportsnews/live_1080p.m3u8
 MMA-TV,https://stream8.cinerama.uz/1226/tracks-v1a1/mono.m3u8
@@ -529,12 +668,9 @@ Big3专场,https://huyazhibo.de5.net/?id=30847442
 帆船专场,https://huyazhibo.de5.net/?id=30805961
 
 
-影视频道,#genre#
+影视,#genre#
 Sqala TV,https://live-evg8.tv360.bitel.com.pe/bitel/studiotvhuanta/playlist.m3u8
 华数动作影院,http://113.25.252.226:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-CHC家庭影院,http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
-CHC动作电影,http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
-CHC影迷电影,http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
 周星驰专场,https://huyazhibo.de5.net/?id=11336587
 李连杰专场,https://huyazhibo.de5.net/?id=11342390
 刘德华专场,https://huyazhibo.de5.net/?id=11342424
@@ -597,7 +733,7 @@ CHC影迷电影,http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
 短片系列,https://douyuu.pages.dev/douyu/8700367
 
 
-音乐频道,#genre#
+音乐,#genre#
 阿七点歌台,https://douyuu.pages.dev/douyu/3186217
 音悦喵点歌台,https://douyuu.pages.dev/douyu/3870925
 音乐台长,https://douyuu.pages.dev/douyu/9629943
@@ -618,7 +754,7 @@ CHC影迷电影,http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
 日语专场,https://huyazhibo.de5.net/?id=21241795
 
 
-动漫频道,#genre#
+动漫,#genre#
 名侦探柯南,https://huyazhibo.de5.net/?id=30080236
 火影忍者,https://huyazhibo.de5.net/?id=29465866
 海贼王,https://huyazhibo.de5.net/?id=29982634
@@ -1153,7 +1289,7 @@ NewTV泰语剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_949_108
 NewTV大家剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_975_1080P_t10/c58_fast_975_1080P_t10.m3u8?d
 NewTV爱情剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c59_fast_967_1080P_t10/c59_fast_967_1080P_t10.m3u8?d
 
-裤佬收藏,#genre#
+收藏,#genre#
 解说,https://douyuu.pages.dev/douyu/9986305
 擦边,https://douyuu.pages.dev/douyu/10205199
 车模,https://douyuu.pages.dev/douyu/9837104
