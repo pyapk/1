@@ -391,6 +391,7 @@ CGTN纪录,http://124.88.73.78:8901/CGTN-纪实高清?cors
 
 
 🇨🇳广东频道,#genre#
+大湾区卫视,http://167.88.62.43:64011/0.ts
 广东珠江,http://218.13.138.139:59901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 广东新闻,http://120.198.84.146:9901/tsfile/live/1013_1.m3u8
 广东民生,http://112.92.129.96:9898/hls/3/index.m3u8
@@ -523,6 +524,7 @@ CGTN纪录,http://124.88.73.78:8901/CGTN-纪实高清?cors
 🇨🇳上海频道,#genre#
 上海都市,http://38.75.136.137:82/live2/shkk.m3u8?id=shylhd&usign=St-G4jKwcPTGDUhxDP3w9Q
 五星体育,http://38.75.136.137:82/live2/shkk.m3u8?id=wxtyhd&usign=St-G4jKwcPTGDUhxDP3w9Q
+劲爆体育,http://120.238.94.82:9901/tsfile/live/1086_1.m3u8#http://183.237.95.108:9901/tsfile/live/1074_1.m3u8?key=txiptv&amp;playlive=0&amp;authid=0
 新闻综合,http://8.137.121.66:20241/651632657
 东方影视,http://8.137.121.66:20241/617290047
 第一财经,http://8.137.121.66:20241/608780988
@@ -805,6 +807,7 @@ CGTN纪录,http://124.88.73.78:8901/CGTN-纪实高清?cors
 
 🇨🇳西藏频道,#genre#
 西藏影视文化,http://121.199.48.54/live1/xztv.m3u8?id=xzys&usign=St-G4jKwcPTGDUhxDP3w9Q
+西藏藏语频道,https://live.vtibet.cn/live/ZYWS20261016.stream.m3u8
 拉萨藏语综合频道,https://tvfile.lasatv.cn/nmip-media/channellive/channel104335/playlist.m3u8
 拉萨综合频道,https://tvfile.lasatv.cn/nmip-media/channellive/channel101894/playlist.m3u8
 拉萨文化旅游频道,https://tvfile.lasatv.cn/nmip-media/channellive/channel103157/playlist.m3u8
@@ -839,6 +842,8 @@ CGTN纪录,http://124.88.73.78:8901/CGTN-纪实高清?cors
 
 
 🇨🇳天津频道,#genre#
+天津卫视,http://115.57.90.137:85/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0#http://fuxin.yunjifei.top:999/tsfile/live/0135_1.m3u8?key=txiptv
+天津体育,http://168250.xyz:1111/rtp/239.5.1.3:5000#http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjtv5
 津南一套,https://play.jinnantv.top/live/JNTV1.flv
 
 🇨🇳山西频道,#genre#
@@ -1062,7 +1067,7 @@ YBTV-2,https://srs.iybtv.cn/video/YBTV21/index.m3u8
 
 
 🇨🇳港澳台频道[免翻],#genre#
-CATCHPLAY,http://167.88.62.43:64003/0.ts
+CATCHPLAY电影台,http://167.88.62.43:64003/0.ts
 纬来体育,https://hlsz.yjjcfw.com/live/vl.m3u8?expire=1786948372&sign=2e4a56b89fe644db147552011f972714
 纬来体育,rtmp://f13h.mine.nu/sat/tv721
 纬来育乐,rtmp://f13h.mine.nu/sat/tv701
@@ -1296,7 +1301,7 @@ CCTV1港澳版,https://globallive.tdm.com.mo/cgtn/cgtn71/playlist.m3u8
 
 
 🇯🇵日本频道,#genre#
-日本原生动漫台,http://167.88.62.43:64001/0.ts
+AT-X（アニメシアターX）,http://167.88.62.43:64001/0.ts
 日テレNEWS (ニュース／報道),https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news1hlscmaf-rakutenjp/playlist.m3u8
 FNNプライムオンライン (ニュース／報道),https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news4-cmaf-rakutenjp/playlist.m3u8
 MBSニュース (ニュース／報道),https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news5-cmaf-rakutenjp/playlist.m3u8
@@ -1345,6 +1350,35 @@ that’s Rock (音楽),https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightn
 刺激ストロング (その他（年齢制限）) [R15+],https://shigeki-strong-jp.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-hls-aes128-rchannels-1-playout/master.m3u8?ads.country=jp&ads.custom_device_type=r_channels&ads.language=ja&ads.rtv_channel_name=shigekistrongeu&ads.rtv_content_id=1&ads.stream_type=hlslinear&channel_id=1&publishing_platform_id=16&tenant_identifier=rchannels
 映画（年齢制限あり） (その他（年齢制限）) [R15+],https://adult-movies-jp.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-hls-aes128-rchannels-3-playout/master.m3u8?ads.country=jp&ads.custom_device_type=r_channels&ads.language=ja&ads.rtv_channel_name=adultmovieeu&ads.rtv_content_id=3&ads.stream_type=hlslinear&channel_id=3&publishing_platform_id=16&tenant_identifier=rchannels
 
+
+🇰🇷韩国频道,#genre#
+KBS N 스포츠,http://167.88.62.43:64005/0.ts
+SBS 스포츠,http://167.88.62.43:64029/0.ts
+TV조선2,http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
+KBS 월드,https://stream8.cinerama.uz/1448/tracks-v1a1/mono.m3u8
+KoreaTV,https://hlive.ktv.go.kr/live/klive_h.stream/chunklist_w287072402.m3u8
+Mnet,http://167.88.62.43:64015/0.ts
+EBS 키즈,http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
+EBS 1TV,http://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
+EBS 2TV,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
+
+
+🇺🇸美国频道,#genre#
+21 Jump Street,https://d1oefjzrirx6fc.cloudfront.net/21_Jump_Street_SONO6.m3u8
+30A Darcizzle Offshore,https://30a-tv.com/darcizzle.m3u8
+30A Georgia Hollywood Review,https://30a-tv.com/gh.m3u8
+30A Golf Kingdom,https://30a-tv.com/feeds/vidaa/golf.m3u8
+30A Investment Pitch,https://30a-tv.com/feeds/xodglobal/30atv.m3u8
+30A Lionel Nation,https://30a-tv.com/ln.m3u8
+30A Loomered TV,https://30a-tv.com/loomer.m3u8
+30A Luxe Life Discovered,https://30a-tv.com/feeds/vidaa/luxelife.m3u8
+30A Music,https://30a-tv.com/music.m3u8
+30A Ridiculous TV,https://30a-tv.com/feeds/720p/63.m3u8
+30A Sidewalks,https://30a-tv.com/sidewalks.m3u8
+30A TV Classic Movies,https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8
+30A Television Channel,https://30a-tv.com/feeds/masters/30atv.m3u8
+30A The Beach Show,https://30a-tv.com/beachy.m3u8
+Bravo Vault,https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/61a276d1-8291-4018-aba2-146304f96043/4.m3u8
 
 
 👧🏻少儿频道,#genre#
@@ -1397,6 +1431,9 @@ Banijay Mr Bean Animé,https://amg00627-amg00627c31-rakuten-fr-3991.playouts.now
 
 ⚽体育频道,#genre#
 NHL FAST,https://nhl-firetv.amagi.tv/playlist1080p.m3u8
+SKYsports,http://167.88.62.43:64023/0.ts
+ESPN8: The Ocho,http://caonima.898757.xyz/l/vv-SzH3o1dD24hDDJKEpnDNO9sknSebxHvEoQRYlEkqdJ7WlVUJ4JVON3irVNLk4/play
+NBC Sports NOW,http://caonima.898757.xyz/l/yMnIt2jylLp6F3k81wmV19xu8-6lyuTSvkovRxnBFkbhiUNLvoWAjyCK3pzoq-CH/play
 FB TV,http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
 Fox Sports News,https://skynewsau-live-premium.akamaized.net/hls/live/2105307/foxsportsnews/live_1080p.m3u8
 MMA-TV,https://stream8.cinerama.uz/1226/tracks-v1a1/mono.m3u8
@@ -1471,7 +1508,9 @@ Big3专场,https://huyazhibo.de5.net/?id=30847442
 
 
 🎬影视频道,#genre#
-Sqala TV,https://live-evg8.tv360.bitel.com.pe/bitel/studiotvhuanta/playlist.m3u8
+STUDIO影视台,https://live-evg8.tv360.bitel.com.pe/bitel/studiotvhuanta/playlist.m3u8
+正阳院线台,https://pili-live-hls-zdzz-tv.zzxwcm.cn/zdzz-tv/nqzh.m3u8
+重温经典台,http://43.138.5.183:10001/rtp/225.1.8.39:8002
 华数动作影院,http://113.25.252.226:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 周星驰专场,https://huyazhibo.de5.net/?id=11336587
 李连杰专场,https://huyazhibo.de5.net/?id=11342390
